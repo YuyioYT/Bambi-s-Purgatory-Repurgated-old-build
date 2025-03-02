@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				101250,
+				[
+					[
+						"Change Character",
+						"1",
+						"wardenphase1"
+					]
+				]
+			],
+			[
+				161250,
+				[
+					[
+						"Change Character",
+						"1",
+						"404"
+					]
+				]
+			],
+			[
+				186250,
+				[
+					[
+						"Change Character",
+						"1",
+						"wardenphase1"
+					]
+				]
+			],
+			[
+				196250,
+				[
+					[
+						"Change Character",
+						"1",
+						"404-phase2"
+					]
+				]
+			],
+			[
+				296250,
+				[
+					[
+						"Change Character",
+						"1",
+						"wardenphase1"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"storyName": "Hell",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rebound",
+			"404",
+			[
+				20,
+				0,
+				75
+			]
+		],
+		[
+			"Diffraction",
+			"404",
+			[
+				20,
+				0,
+				75
+			]
+		],
+		[
+			"Disposition",
+			"404 Phase 2",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"Upheaval",
+			"WardenPhase1",
+			[
+				215,
+				195,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekHell"
+}

@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "YCTP idle"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YCTP RIGHT"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YCTP LEFT"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YCTP DOWN"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YCTP UP"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "angry",
+			"fps": 24,
+			"name": "YCTP angry",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/baldi/yctp",
+	"position": [-425, 95],
+	"healthicon": "baldi1",
+	"healthbar_count": 1,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"green": 255, "red": 0, "blue": 51},
+		{"green": 255, "red": 0, "blue": 51},
+		{"green": 255, "red": 0, "blue": 51}
+	],
+	"camera_position": [-620, -430],
+	"sing_duration": 2.6,
+	"scale": 3.1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,48 @@
+{
+	"storyName": "Ayo?",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Beefin'",
+			"Bamburg",
+			[
+				215,
+				169,
+				0
+			]
+		],
+		[
+			"Technology",
+			"Bombu",
+			[
+				0,
+				0,
+				53
+			]
+		],
+		[
+			"Showdown",
+			"Cuatruple",
+			[
+				55,
+				53,
+				55
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Trio Guys"
+}

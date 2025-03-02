@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				43764.7058823529,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"1800"
+					]
+				]
+			],
+			[
+				146823.529411764,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-mad-guitar"
+					]
+				]
+			]
+		]
+	}
+}

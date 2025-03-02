@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Conbi.png">
+<SubTexture name="idle0000" x="0" y="0" width="774" height="2109" frameX="-19" frameY="-9" frameWidth="814" frameHeight="2146" />
+</TextureAtlas>
