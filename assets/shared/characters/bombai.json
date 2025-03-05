@@ -1,44 +1,44 @@
 {
 	"animations": [
 		{
-			"offsets": [-4, -80],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 17,
+			"anim": "idle",
 			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [-4, -80],
+			"indices": [],
+			"fps": 17,
+			"anim": "singDOWN",
+			"loop": false,
 			"name": "DOWN"
 		},
 		{
 			"offsets": [17, 58],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
+			"fps": 17,
+			"anim": "singUP",
+			"loop": false,
 			"name": "UP"
 		},
 		{
 			"offsets": [-96, -4],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
 			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT",
+			"loop": false,
 			"name": "RIGHT"
 		},
 		{
 			"offsets": [60, -6],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
 			"indices": [],
-			"name": "LEFT"
-		},
-		{
-			"loop": true,
-			"offsets": [0, 0],
-			"anim": "idle",
 			"fps": 17,
-			"name": "IDLE",
-			"indices": []
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LEFT"
 		}
 	],
 	"vocals_file": "",
@@ -49,9 +49,9 @@
 	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		{"blue": 0, "red": 115, "green": 0},
-		{"blue": 0, "red": 135, "green": 0},
-		{"blue": 0, "red": 155, "green": 0}
+		{"blue": 0, "green": 0, "red": 115},
+		{"blue": 0, "green": 0, "red": 135},
+		{"blue": 0, "green": 0, "red": 155}
 	],
 	"camera_position": [20, -310],
 	"sing_duration": 6.1,
