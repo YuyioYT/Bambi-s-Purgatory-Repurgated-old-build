@@ -3255,72 +3255,6 @@
 			]
 		],
 		[
-			77866.6666666666,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			77866.6666666666,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			77866.6666666666,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			77866.6666666666,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			77866.6666666666,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			77866.6666666666,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			77866.6666666666,
-			[
-				["Change Window Title", "Friday Night Funkin': Technological Gastronomy (Not Responding)", ""]
-			]
-		],
-		[
-			77900,
-			[
-				["Change Window Title", "Friday Night Funkin': Technological Gastronomy (Not Responding)", ""]
-			]
-		],
-		[
-			81066.6666666666,
-			[
-				["Change Window Title", "Friday Night Funkin': Technological Gastronomy (Not Responding)", ""]
-			]
-		],
-		[
-			81066.6666666666,
-			[
-				["Change Window Title", "Friday Night Funkin': Technological Gastronomy (Not Responding)", ""]
-			]
-		],
-		[
-			81066.6666666666,
-			[
-				["Reset Window Title", "", ""]
-			]
-		],
-		[
 			89600,
 			[
 				["Add Camera Zoom", "0.85", "0.055"]
@@ -3369,75 +3303,16 @@
 			]
 		],
 		[
-			146133.333333333,
+			108131.868131868,
 			[
-				["Change Window Title", "", ""]
+				["Change Character", "bf", "camera-empty-for-bf2"]
 			]
 		],
 		[
-			146133.333333333,
+			150329.67032967,
 			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			146133.333333333,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			146133.333333333,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			146133.333333333,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			146133.333333333,
-			[
-				["Change Window Title", "", ""]
-			]
-		],
-		[
-			146133.333333333,
-			[
-				["Change Window Title", "Friday Night Funkin': Technological Gastronomy (Not Responding)", ""]
-			]
-		],
-		[
-			146166.666666667,
-			[
-				["Change Window Title", "Friday Night Funkin': Technological Gastronomy (Not Responding)", ""]
-			]
-		],
-		[
-			149333.333333333,
-			[
-				["Change Window Title", "Friday Night Funkin': Technological Gastronomy (Not Responding)", ""]
-			]
-		],
-		[
-			149333.333333333,
-			[
-				["Change Window Title", "Friday Night Funkin': Technological Gastronomy (Not Responding)", ""]
-			]
-		],
-		[
-			149333.333333333,
-			[
-				["Reset Window Title", "", ""]
-			]
-		],
-		[
-			149355.555555556,
-			[
-				["Reset Window Title", "", ""]
+				["Change Character", "dad", "bombai"],
+				["Change Character", "bf", "bf"]
 			]
 		],
 		[
