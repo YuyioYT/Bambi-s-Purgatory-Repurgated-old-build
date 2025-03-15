@@ -29,7 +29,7 @@
 		{"blue": 189, "green": 156, "red": 29},
 		{"blue": 169, "green": 136, "red": 9}
 	],
-	"camera_position": [70, 0],
+	"camera_position": [300, 0],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": false

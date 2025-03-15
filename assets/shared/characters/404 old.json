@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-14, 95],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [208, 39],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [36, 38],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-192, 36],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/expunged/404 old",
+	"position": [-150, 20],
+	"healthicon": "404 old",
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 237, "green": 237, "red": 237},
+		{"blue": 217, "green": 237, "red": 237},
+		{"blue": 197, "green": 237, "red": 237}
+	],
+	"camera_position": [60, -270],
+	"sing_duration": 6.1,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}
