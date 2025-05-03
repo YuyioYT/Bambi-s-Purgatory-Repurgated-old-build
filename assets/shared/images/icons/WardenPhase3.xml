@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WarderPhase3.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Defeat0000" x="0" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0001" x="177" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0002" x="354" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0003" x="531" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0004" x="708" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0005" x="885" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0006" x="1062" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0007" x="1239" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0008" x="1416" y="0" width="177" height="181"/>
+	<SubTexture name="Defeat0009" x="1593" y="0" width="177" height="181"/>
+	<SubTexture name="Neutral0000" x="1770" y="0" width="193" height="181"/>
+	<SubTexture name="Neutral0001" x="0" y="181" width="193" height="181"/>
+	<SubTexture name="Neutral0002" x="193" y="181" width="193" height="181"/>
+	<SubTexture name="Neutral0003" x="386" y="181" width="193" height="181"/>
+	<SubTexture name="Neutral0004" x="579" y="181" width="193" height="181"/>
+	<SubTexture name="Neutral0005" x="1770" y="0" width="193" height="181"/>
+	<SubTexture name="Neutral0006" x="772" y="181" width="193" height="181"/>
+	<SubTexture name="Neutral0007" x="965" y="181" width="193" height="181"/>
+	<SubTexture name="Neutral0008" x="1158" y="181" width="193" height="181"/>
+	<SubTexture name="Neutral0009" x="1351" y="181" width="193" height="181"/>
+	<SubTexture name="Winning0000" x="1544" y="181" width="185" height="181"/>
+	<SubTexture name="Winning0001" x="1729" y="181" width="185" height="181"/>
+	<SubTexture name="Winning0002" x="0" y="362" width="185" height="181"/>
+	<SubTexture name="Winning0003" x="185" y="362" width="185" height="181"/>
+	<SubTexture name="Winning0004" x="370" y="362" width="185" height="181"/>
+	<SubTexture name="Winning0005" x="555" y="362" width="185" height="181"/>
+	<SubTexture name="Winning0006" x="740" y="362" width="185" height="181"/>
+	<SubTexture name="Winning0007" x="925" y="362" width="185" height="181"/>
+	<SubTexture name="Winning0008" x="1110" y="362" width="185" height="181"/>
+	<SubTexture name="Winning0009" x="1295" y="362" width="185" height="181"/>
+</TextureAtlas>

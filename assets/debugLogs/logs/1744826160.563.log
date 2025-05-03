@@ -1,0 +1,85 @@
+2025-04-16 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#237]:[0m Debug logging initialized. Hello, developer.
+2025-04-16 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#242]:[0m This is a RELEASE build.
+2025-04-16 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#244]:[0m HaxeFlixel version: HaxeFlixel 5.9.0
+2025-04-16 | 0:00.00 [SLE_INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#245]:[0m Slushi Engine version: 0.4.0
+2025-04-16 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#246]:[0m SC Engine version: 1.5.2 (4eaf8c4)
+2025-04-16 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#247]:[0m This is a custom build of PE. Current version: 1.04
+2025-04-16 | 0:00.00 [INFO] - [4;90m[backend.DiscordClient/initialize#74]:[0m Discord Client initialized
+2025-04-16 | 0:00.00 [INFO] - [4;90m[objects.AlphaCharacter/loadAlphabetData#312]:[0m Reloaded letters successfully (assets/shared/images/alphabet.json)!
+2025-04-16 | 0:00.00 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#49]:[0m Wallpaper Path: C:\Users\osanc.DESKTOP-69O57J2\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper
+2025-04-16 | 0:00.00 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#50]:[0m Saving the path in a private variable...
+2025-04-16 | 0:00.19 [SLE_INFO] - [4;90m[slushi.others.systemUtils.SystemInfo/formatSysInfo#159]:[0m 
+
+System: Microsoft Windows 11 Home 10.0.22631
+CPU: AMD Ryzen 7 5700X 8-Core Processor x86 64-Bit
+GPU: AMD Radeon RX 6700 XT
+Total RAM: 24 GB DDR4
+
+2025-04-16 | 0:00.19 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#151]:[0m Checking for new version...
+2025-04-16 | 0:00.44 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#170]:[0m Version online: [0.4.0], this version: [0.4.0]
+2025-04-16 | 0:00.44 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#189]:[0m Versions are matching!
+2025-04-16 | 0:12.12 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-16 | 0:13.49 [INFO] - [4;90m[states.editors.ChartingState/_cacheSections#2240]:[0m created sections until 64
+2025-04-16 | 0:26.40 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-16 | 0:27.18 [INFO] - [4;90m[states.PlayState/create#702]:[0m { mainData => { difficulty => 1, name => test, opponentMode => false, score => 0 }, rankData => { rating => , accuracy => 0, comboRank =>  }, comboData => { swags => 0, goods => 0, totalNotesHit => 0, maxCombo => 0, totalPlayed => 0, highestCombo => 0, bads => 0, combo => 0, misses => 0, totalNoteCount => 0, shits => 0, sicks => 0 } }test1
+2025-04-16 | 0:27.20 [SLE_INFO] - [4;90m[slushi.slushiUtils.LyricsUtils/new#35]:[0m Lyrics JSON file not found!
+2025-04-16 | 0:27.20 [ERROR] - [4;90m[objects.Character/changeCharacter#462]:[0m Error loading character file of "dad": [file_contents,assets/shared/data/characters/bf.json]
+2025-04-16 | 0:27.20 [ERROR] - [4;90m[objects.Character/changeCharacter#462]:[0m Error loading character file of "gf": [file_contents,assets/shared/data/characters/bf.json]
+2025-04-16 | 0:27.20 [ERROR] - [4;90m[objects.Character/changeCharacter#462]:[0m Error loading character file of "": [file_contents,assets/shared/data/characters/bf.json]
+2025-04-16 | 0:27.20 [ERROR] - [4;90m[objects.Character/changeCharacter#462]:[0m Error loading character file of "bf": [file_contents,assets/shared/data/characters/bf.json]
+2025-04-16 | 0:27.20 [INFO] - [4;90m[states.PlayState/create#848]:[0m current stage, stage
+2025-04-16 | 0:27.20 [INFO] - [4;90m[backend.stage.Stage/setupWeekDir#211]:[0m directory: shared
+2025-04-16 | 0:27.20 [INFO] - [4;90m[backend.stage.Stage/setupStageProperties#101]:[0m STAGE INFO JSON ? assets/shared/data/stages/stage.json
+2025-04-16 | 0:27.20 [WARN] - [4;90m[backend.stage.Stage/setupStageProperties#107]:[0m stage.json not found, using the default stage
+2025-04-16 | 0:29.99 [INFO] - [4;90m[states.PlayState/startSong#2449]:[0m started loading!
+2025-04-16 | 0:40.06 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.06 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.07 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.07 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.08 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.08 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.09 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.09 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.10 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.10 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.11 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.12 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.12 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.12 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.13 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.13 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.14 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.14 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.15 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.15 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.16 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.16 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.17 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.17 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.18 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.18 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.19 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.19 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.20 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.20 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.21 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.21 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.22 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.22 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.23 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.23 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.24 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.24 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.25 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.25 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.26 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.26 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.27 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.28 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.28 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.29 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.30 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.32 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.34 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.36 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!
+2025-04-16 | 0:40.38 [WARN] - [4;90m[states.PlayState/update#3591]:[0m Warning! Delay is too fucking high!!

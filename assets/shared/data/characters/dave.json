@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"offsets": [-100, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [-135, 20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [-116, 24],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [-95, 12],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [-126, 2],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dave/Dave",
+	"position": [-80, 150],
+	"healthicon": "dave",
+	"healthbar_count": 1,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 255, "red": 15, "green": 95},
+		{"blue": 255, "red": 15, "green": 115},
+		{"blue": 255, "red": 15, "green": 135}
+	],
+	"camera_position": [260, 0],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

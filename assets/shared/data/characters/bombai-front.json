@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"offsets": [-15, 100],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [80, 40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [-113, 180],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [30, 30],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"loop": true,
+			"offsets": [0, 50],
+			"anim": "idle",
+			"fps": 30,
+			"name": "IDLE",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bombai/Bombai Front",
+	"position": [-170, -360],
+	"healthicon": "Bombai",
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 0, "red": 115, "green": 0},
+		{"blue": 0, "red": 135, "green": 0},
+		{"blue": 0, "red": 155, "green": 0}
+	],
+	"camera_position": [-90, -20],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

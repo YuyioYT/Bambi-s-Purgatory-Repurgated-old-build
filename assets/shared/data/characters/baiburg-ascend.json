@@ -1,0 +1,28 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bamburg/Ascending Baiburg ascend",
+	"position": [-400, -130],
+	"healthicon": "Ascend Baiburg",
+	"healthbar_count": 3,
+	"flip_x": true,
+	"healthbar_colors": [
+		{"blue": 40, "red": 255, "green": 0},
+		{"blue": 60, "red": 255, "green": 0},
+		{"blue": 80, "red": 255, "green": 0}
+	],
+	"camera_position": [100, 40],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

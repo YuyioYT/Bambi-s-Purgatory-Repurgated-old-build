@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BALDI idle"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BALDI right"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BALDI left"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BALDI up"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BALDI down"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 27,
+			"anim": "wave",
+			"indices": [],
+			"name": "BALDI wave"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/baldi/BALDI",
+	"position": [90, 220],
+	"healthicon": "baldi",
+	"healthbar_count": 1,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"green": 215, "red": 0, "blue": 0},
+		{"green": 215, "red": 0, "blue": 0},
+		{"green": 215, "red": 0, "blue": 0}
+	],
+	"camera_position": [-253, -270],
+	"sing_duration": 5.2,
+	"scale": 3.3,
+	"_editor_isPlayer": false
+}

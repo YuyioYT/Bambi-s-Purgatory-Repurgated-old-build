@@ -1,0 +1,128 @@
+2025-04-19 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#237]:[0m Debug logging initialized. Hello, developer.
+2025-04-19 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#242]:[0m This is a RELEASE build.
+2025-04-19 | 0:00.01 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#244]:[0m HaxeFlixel version: HaxeFlixel 5.9.0
+2025-04-19 | 0:00.01 [SLE_INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#245]:[0m Slushi Engine version: 0.4.0
+2025-04-19 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#246]:[0m SC Engine version: 1.5.2 (4eaf8c4)
+2025-04-19 | 0:00.03 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#247]:[0m This is a custom build of PE. Current version: 1.04
+2025-04-19 | 0:00.04 [INFO] - [4;90m[backend.DiscordClient/initialize#74]:[0m Discord Client initialized
+2025-04-19 | 0:00.05 [INFO] - [4;90m[objects.AlphaCharacter/loadAlphabetData#312]:[0m Reloaded letters successfully (assets/shared/images/alphabet.json)!
+2025-04-19 | 0:00.06 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#49]:[0m Wallpaper Path: C:\Users\yuyio\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper
+2025-04-19 | 0:00.07 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#50]:[0m Saving the path in a private variable...
+2025-04-19 | 0:00.49 [SLE_INFO] - [4;90m[slushi.others.systemUtils.SystemInfo/formatSysInfo#159]:[0m 
+
+System: Microsoft Windows 11 Home 10.0.22631
+CPU: AMD Ryzen 7 5700X 8-Core Processor x86 64-Bit
+GPU: AMD Radeon RX 6700 XT
+Total RAM: 24 GB DDR4
+
+2025-04-19 | 0:00.51 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#151]:[0m Checking for new version...
+2025-04-19 | 0:00.85 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#170]:[0m Version online: [0.4.0], this version: [0.4.0]
+2025-04-19 | 0:00.86 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#189]:[0m Versions are matching!
+2025-04-19 | 0:02.05 [INFO] - [4;90m[backend.DiscordClient/onReady#52]:[0m (Discord) Connected to User (dddsss10_19168)
+2025-04-19 | 0:22.06 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 0:22.09 [INFO] - [4;90m[states.freeplay.FreeplayState/moveToSong#908]:[0m CURRENT WEEK: week1
+2025-04-19 | 0:22.09 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/fallowed/fallowed.json
+2025-04-19 | 0:22.12 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart fallowed with format unknown to psych_v1 format...
+2025-04-19 | 0:22.13 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/fallowed/fallowed.json
+2025-04-19 | 0:22.13 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\fallowed\fallowed.json
+2025-04-19 | 0:22.14 [INFO] - [4;90m[states.freeplay.FreeplayState/moveToSong#916]:[0m fallowed
+2025-04-19 | 0:22.14 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-19 | 0:22.15 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: characters/bf/BOYFRIEND
+2025-04-19 | 0:22.16 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid songs: fallowed/Inst
+2025-04-19 | 0:22.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverBlue
+2025-04-19 | 0:22.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverGreen
+2025-04-19 | 0:22.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-19 | 0:22.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-19 | 0:22.18 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSplashes/noteSplashes
+2025-04-19 | 0:22.19 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-19 | 0:22.20 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-19 | 0:22.53 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/bambi/bambi-rage
+2025-04-19 | 0:22.68 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/GF_assets
+2025-04-19 | 0:23.39 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSplashes/noteSplashes.png
+2025-04-19 | 0:23.40 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverBlue.png
+2025-04-19 | 0:23.40 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/GF_assets.png
+2025-04-19 | 0:23.41 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/bambi/bambi-rage.png
+2025-04-19 | 0:23.42 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverGreen.png
+2025-04-19 | 0:23.43 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSkins/NOTE_assets.png
+2025-04-19 | 0:23.44 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverPurple.png
+2025-04-19 | 0:23.46 [INFO] - [4;90m[states.PlayState/create#690]:[0m [comboData => [totalNoteCount => 0, swags => 0, misses => 0, highestCombo => 0, maxCombo => 0, shits => 0, sicks => 0, totalNotesHit => 0, goods => 0, bads => 0, combo => 0, totalPlayed => 0], rankData => [comboRank => , accuracy => 0, rating => ], mainData => [score => 0, opponentMode => false, name => fallowed, difficulty => 1]]fallowed1
+2025-04-19 | 0:24.07 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 0:24.19 [SLE_INFO] - [4;90m[slushi.slushiUtils.LyricsUtils/new#35]:[0m Lyrics JSON file not found!
+2025-04-19 | 0:24.32 [INFO] - [4;90m[states.PlayState/create#836]:[0m current stage, farmNight
+2025-04-19 | 0:24.33 [INFO] - [4;90m[backend.stage.Stage/setupWeekDir#193]:[0m directory: shared
+2025-04-19 | 0:24.33 [INFO] - [4;90m[backend.stage.Stage/setupStageProperties#101]:[0m STAGE INFO JSON ? assets/shared/data/stages/farmNight.json
+2025-04-19 | 0:24.34 [WARN] - [4;90m[backend.stage.Stage/setupStageProperties#107]:[0m farmNight.json not found, using the default stage
+2025-04-19 | 0:25.65 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/fallowed/events.json
+2025-04-19 | 0:25.65 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart events with format unknown to psych_v1 format...
+2025-04-19 | 0:26.80 [INFO] - [4;90m[states.PlayState/cacheCharacter#7920]:[0m found bambi-god2d
+2025-04-19 | 0:30.01 [INFO] - [4;90m[states.PlayState/startSong#2375]:[0m started loading!
+2025-04-19 | 0:30.02 [WARN] - [4;90m[states.PlayState/update#3532]:[0m Warning! Delay is too fucking high!!
+2025-04-19 | 0:30.26 [ERROR] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#164]:[0m 
+CRASH:
+[38;5;1mCall Stack:
+[4mshaders/RGBPixelShader.hx#17[24m
+objects/note/HoldCoverSprite.hx#133
+objects/note/HoldCoverSprite.hx#151
+objects/note/HoldCoverGroup.hx#59
+states/PlayState.hx#6482
+states/PlayState.hx#3675
+flixel/group/FlxGroup.hx#791
+states/PlayState.hx#3657
+flixel/FlxState.hx#241
+flixel/FlxGame.hx#750
+
+Uncaught Error:
+Null Object Reference[0m
+
+
+2025-04-19 | 0:30.34 [INFO] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#167]:[0m Starting Crash Handler in game
+2025-04-19 | 0:41.95 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-19 | 0:41.96 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart shattered with format unknown to psych_v1 format...
+2025-04-19 | 0:41.97 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-19 | 0:41.97 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\shattered\shattered.json
+2025-04-19 | 0:52.17 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 0:54.18 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 0:56.19 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 0:58.20 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 1:00.22 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 1:02.23 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 1:04.24 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 1:06.26 [ERROR] - [4;90m[backend.DiscordClient/onError#58]:[0m Discord: Error (1000: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.)
+2025-04-19 | 1:22.22 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-19 | 1:29.34 [INFO] - [4;90m[objects.note.NoteSplash/chooseSplashPath#154]:[0m Failed to locate null.json, returning nothing
+2025-04-19 | 1:29.34 [ERROR] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#164]:[0m 
+CRASH:
+[38;5;1mCall Stack:
+[4mshaders/RGBPixelShader.hx#17[24m
+options/VisualsSettingsSubState.hx#51
+options/OptionsState.hx#44
+options/OptionsState.hx#152
+flixel/FlxState.hx#241
+flixel/FlxGame.hx#750
+
+Uncaught Error:
+Null Object Reference[0m
+
+
+2025-04-19 | 1:29.42 [INFO] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#167]:[0m Starting Crash Handler in game
+2025-04-19 | 1:31.24 [INFO] - [4;90m[objects.note.NoteSplash/chooseSplashPath#154]:[0m Failed to locate null.json, returning nothing
+2025-04-19 | 1:31.25 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [0], skipping it...
+2025-04-19 | 1:32.01 [INFO] - [4;90m[objects.note.NoteSplash/chooseSplashPath#154]:[0m Failed to locate null.json, returning nothing
+2025-04-19 | 1:32.01 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [1], skipping it...
+2025-04-19 | 1:32.35 [INFO] - [4;90m[objects.note.NoteSplash/chooseSplashPath#154]:[0m Failed to locate null.json, returning nothing
+2025-04-19 | 1:32.36 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [2], skipping it...
+2025-04-19 | 1:32.62 [INFO] - [4;90m[objects.note.NoteSplash/chooseSplashPath#154]:[0m Failed to locate null.json, returning nothing
+2025-04-19 | 1:32.63 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [3], skipping it...
+2025-04-19 | 1:32.89 [INFO] - [4;90m[objects.note.NoteSplash/chooseSplashPath#154]:[0m Failed to locate null.json, returning nothing
+2025-04-19 | 1:32.90 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [4], skipping it...
+2025-04-19 | 1:32.91 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#80]:[0m Too many crashes, quitting...

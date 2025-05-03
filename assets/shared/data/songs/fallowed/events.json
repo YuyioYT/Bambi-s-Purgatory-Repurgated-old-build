@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Hide or Show HUD elements with Fade",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				5363.12849162011,
+				[
+					[
+						"Hide or Show HUD elements with Fade",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				8379.88826815642,
+				[
+					[
+						"Quick note spin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				10726.2569832402,
+				[
+					[
+						"Change the Default Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				333282.577320921,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-god2d"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,20 @@
+2025-04-23 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#237]:[0m Debug logging initialized. Hello, developer.
+2025-04-23 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#242]:[0m This is a RELEASE build.
+2025-04-23 | 0:00.01 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#244]:[0m HaxeFlixel version: HaxeFlixel 5.9.0
+2025-04-23 | 0:00.01 [SLE_INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#245]:[0m Slushi Engine version: 0.4.0
+2025-04-23 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#246]:[0m SC Engine version: 1.5.2 (4eaf8c4)
+2025-04-23 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#247]:[0m This is a custom build of PE. Current version: 1.04
+2025-04-23 | 0:00.06 [INFO] - [4;90m[backend.DiscordClient/initialize#74]:[0m Discord Client initialized
+2025-04-23 | 0:00.09 [INFO] - [4;90m[objects.AlphaCharacter/loadAlphabetData#312]:[0m Reloaded letters successfully (assets/shared/images/alphabet.json)!
+2025-04-23 | 0:00.42 [SLE_INFO] - [4;90m[slushi.others.systemUtils.SystemInfo/formatSysInfo#159]:[0m 
+
+System: Microsoft Windows 11 Home 10.0.22631
+CPU: AMD Ryzen 7 5700X 8-Core Processor x86 64-Bit
+GPU: AMD Radeon RX 6700 XT
+Total RAM: 24 GB DDR4
+
+2025-04-23 | 0:00.56 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#150]:[0m Checking for new version...
+2025-04-23 | 0:01.15 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#169]:[0m Version online: [0.4.0], this version: [0.4.0]
+2025-04-23 | 0:01.15 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#188]:[0m Versions are matching!
+2025-04-23 | 0:20.52 [SLE_INFO] - [4;90m[slushi.SlushiMain/onCloseWindow#104]:[0m Reseting all C++ functions...
+

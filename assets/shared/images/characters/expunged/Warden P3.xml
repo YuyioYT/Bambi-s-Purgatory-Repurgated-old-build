@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Warden-P3.png">
+<SubTexture name="idle0000" x="1630" y="1461" width="834" height="652" frameX="-66" frameY="-297" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="idle0001" x="2697" y="0" width="833" height="649" frameX="-66" frameY="-300" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="idle0002" x="814" y="1461" width="816" height="662" frameX="-66" frameY="-288" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="idle0003" x="918" y="739" width="815" height="680" frameX="-66" frameY="-270" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="idle0004" x="1779" y="719" width="816" height="682" frameX="-66" frameY="-268" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="idle0005" x="0" y="1461" width="814" height="676" frameX="-66" frameY="-274" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="up0000" x="0" y="0" width="888" height="739" frameX="-66" frameY="-213" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="up0001" x="888" y="0" width="891" height="733" frameX="-66" frameY="-219" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="up0002" x="0" y="739" width="918" height="722" frameX="-66" frameY="-232" frameWidth="1277" frameHeight="1215" />
+<SubTexture name="up0003" x="1779" y="0" width="918" height="719" frameX="-66" frameY="-235" frameWidth="1277" frameHeight="1215" />
+</TextureAtlas>

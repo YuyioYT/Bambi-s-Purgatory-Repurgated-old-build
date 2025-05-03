@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baiburg_ascending.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="1927" y="0" width="769" height="456" frameX="-313" frameY="-281" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0001" x="0" y="1348" width="926" height="453" frameX="-193" frameY="-278" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0002" x="975" y="0" width="952" height="450" frameX="-152" frameY="-273" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0003" x="0" y="449" width="964" height="451" frameX="-191" frameY="-267" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0004" x="1927" y="910" width="741" height="448" frameX="-321" frameY="-263" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0005" x="926" y="1348" width="610" height="447" frameX="-268" frameY="-262" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0006" x="941" y="900" width="772" height="447" frameX="-130" frameY="-263" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0007" x="0" y="900" width="941" height="448" frameX="-72" frameY="-268" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0008" x="0" y="0" width="975" height="449" frameX="-62" frameY="-273" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0009" x="975" y="450" width="939" height="450" frameX="-34" frameY="-279" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0010" x="1927" y="456" width="748" height="454" frameX="-91" frameY="-282" frameWidth="1200" frameHeight="900"/>
+	<SubTexture name="Idle0011" x="0" y="1801" width="685" height="456" frameX="-271" frameY="-283" frameWidth="1200" frameHeight="900"/>
+</TextureAtlas>

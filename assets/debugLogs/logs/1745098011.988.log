@@ -1,0 +1,77 @@
+2025-04-19 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#237]:[0m Debug logging initialized. Hello, developer.
+2025-04-19 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#242]:[0m This is a RELEASE build.
+2025-04-19 | 0:00.01 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#244]:[0m HaxeFlixel version: HaxeFlixel 5.9.0
+2025-04-19 | 0:00.01 [SLE_INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#245]:[0m Slushi Engine version: 0.4.0
+2025-04-19 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#246]:[0m SC Engine version: 1.5.2 (4eaf8c4)
+2025-04-19 | 0:00.03 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#247]:[0m This is a custom build of PE. Current version: 1.04
+2025-04-19 | 0:00.04 [INFO] - [4;90m[backend.DiscordClient/initialize#74]:[0m Discord Client initialized
+2025-04-19 | 0:00.04 [INFO] - [4;90m[objects.AlphaCharacter/loadAlphabetData#312]:[0m Reloaded letters successfully (assets/shared/images/alphabet.json)!
+2025-04-19 | 0:00.05 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#49]:[0m Wallpaper Path: C:\Users\yuyio\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper
+2025-04-19 | 0:00.06 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#50]:[0m Saving the path in a private variable...
+2025-04-19 | 0:00.33 [SLE_INFO] - [4;90m[slushi.others.systemUtils.SystemInfo/formatSysInfo#159]:[0m 
+
+System: Microsoft Windows 11 Home 10.0.22631
+CPU: AMD Ryzen 7 5700X 8-Core Processor x86 64-Bit
+GPU: AMD Radeon RX 6700 XT
+Total RAM: 24 GB DDR4
+
+2025-04-19 | 0:00.35 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#151]:[0m Checking for new version...
+2025-04-19 | 0:00.69 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#170]:[0m Version online: [0.4.0], this version: [0.4.0]
+2025-04-19 | 0:00.70 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#189]:[0m Versions are matching!
+2025-04-19 | 0:15.31 [INFO] - [4;90m[states.freeplay.FreeplayState/moveToSong#913]:[0m CURRENT WEEK: week1
+2025-04-19 | 0:15.32 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-19 | 0:15.34 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart shattered with format unknown to psych_v1 format...
+2025-04-19 | 0:15.35 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-19 | 0:15.36 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\shattered\shattered.json
+2025-04-19 | 0:15.37 [INFO] - [4;90m[states.freeplay.FreeplayState/moveToSong#921]:[0m shattered
+2025-04-19 | 0:15.38 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-19 | 0:15.38 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: HoldNoteEffect/holdCoverPurple
+2025-04-19 | 0:15.39 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: HoldNoteEffect/holdCoverBlue
+2025-04-19 | 0:15.40 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: HoldNoteEffect/holdCoverGreen
+2025-04-19 | 0:15.41 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: HoldNoteEffect/holdCoverPurple
+2025-04-19 | 0:15.42 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: characters/bf/BOYFRIEND
+2025-04-19 | 0:16.15 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSplashes/noteSplashes
+2025-04-19 | 0:16.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-19 | 0:16.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-19 | 0:16.32 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/bambi/Angry Bambi
+2025-04-19 | 0:16.34 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/GF_assets
+2025-04-19 | 0:16.62 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/GF_assets.png
+2025-04-19 | 0:16.63 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/bambi/Angry Bambi.png
+2025-04-19 | 0:16.63 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSkins/NOTE_assets.png
+2025-04-19 | 0:16.64 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSplashes/noteSplashes.png
+2025-04-19 | 0:16.87 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song shattered/Voices
+2025-04-19 | 0:17.45 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song shattered/Inst
+2025-04-19 | 0:17.46 [INFO] - [4;90m[states.PlayState/create#690]:[0m [rankData => [comboRank => , rating => , accuracy => 0], comboData => [swags => 0, totalNoteCount => 0, maxCombo => 0, misses => 0, highestCombo => 0, shits => 0, sicks => 0, combo => 0, bads => 0, goods => 0, totalNotesHit => 0, totalPlayed => 0], mainData => [opponentMode => false, score => 0, difficulty => 1, name => shattered]]shattered1
+2025-04-19 | 0:17.68 [SLE_INFO] - [4;90m[slushi.slushiUtils.LyricsUtils/new#35]:[0m Lyrics JSON file not found!
+2025-04-19 | 0:17.87 [INFO] - [4;90m[states.PlayState/create#836]:[0m current stage, farmSunset
+2025-04-19 | 0:17.88 [INFO] - [4;90m[backend.stage.Stage/setupWeekDir#211]:[0m directory: shared
+2025-04-19 | 0:17.88 [INFO] - [4;90m[backend.stage.Stage/setupStageProperties#101]:[0m STAGE INFO JSON ? assets/shared/data/stages/farmSunset.json
+2025-04-19 | 0:17.89 [WARN] - [4;90m[backend.stage.Stage/setupStageProperties#107]:[0m farmSunset.json not found, using the default stage
+2025-04-19 | 0:18.15 [ERROR] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#164]:[0m 
+CRASH:
+[38;5;1mCall Stack:
+[4mstates/PlayState.hx#1031[24m
+flixel/FlxGame.hx#640
+
+Uncaught Error:
+Null Object Reference[0m
+
+
+2025-04-19 | 0:18.19 [INFO] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#167]:[0m Starting Crash Handler in game
+2025-04-19 | 0:29.19 [ERROR] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#164]:[0m 
+CRASH:
+[38;5;1mCall Stack:
+[4mslushi/states/freeplay/SlushiFreeplayState.hx#1361[24m
+flixel/FlxGame.hx#625
+
+Uncaught Error:
+Null Object Reference[0m
+
+
+2025-04-19 | 0:29.45 [INFO] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#167]:[0m Starting Crash Handler in game
+2025-04-19 | 0:29.54 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [0], skipping it...
+2025-04-19 | 0:29.55 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [1], skipping it...
+2025-04-19 | 0:29.56 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [2], skipping it...
+2025-04-19 | 0:29.58 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [3], skipping it...
+2025-04-19 | 0:29.59 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [4], skipping it...
+2025-04-19 | 0:29.60 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#80]:[0m Too many crashes, quitting...

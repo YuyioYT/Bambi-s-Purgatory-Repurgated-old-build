@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"offsets": [-100, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [-180, -70],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [-117, -3],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [-20, 30],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [190, -52],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/dave/Complex Dave Phase 2 White",
+	"position": [-340, -200],
+	"healthicon": "Complex Dave",
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 92, "red": 61, "green": 0},
+		{"blue": 72, "red": 61, "green": 0},
+		{"blue": 52, "red": 61, "green": 0}
+	],
+	"camera_position": [180, -42],
+	"sing_duration": 6.09999999999999,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

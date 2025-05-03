@@ -1,0 +1,247 @@
+2025-04-28 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#237]:[0m Debug logging initialized. Hello, developer.
+2025-04-28 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#242]:[0m This is a RELEASE build.
+2025-04-28 | 0:00.01 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#244]:[0m HaxeFlixel version: HaxeFlixel 5.9.0
+2025-04-28 | 0:00.01 [SLE_INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#245]:[0m Slushi Engine version: 0.4.0
+2025-04-28 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#246]:[0m SC Engine version: 1.5.2 (4eaf8c4)
+2025-04-28 | 0:00.03 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#247]:[0m This is a custom build of PE. Current version: 1.04
+2025-04-28 | 0:00.07 [INFO] - [4;90m[backend.DiscordClient/initialize#74]:[0m Discord Client initialized
+2025-04-28 | 0:00.08 [INFO] - [4;90m[objects.AlphaCharacter/loadAlphabetData#312]:[0m Reloaded letters successfully (assets/shared/images/alphabet.json)!
+2025-04-28 | 0:00.09 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#49]:[0m Wallpaper Path: C:\Users\yuyio\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper
+2025-04-28 | 0:00.10 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#50]:[0m Saving the path in a private variable...
+2025-04-28 | 0:00.45 [SLE_INFO] - [4;90m[slushi.others.systemUtils.SystemInfo/formatSysInfo#159]:[0m 
+
+System: Microsoft Windows 11 Home 10.0.22631
+CPU: AMD Ryzen 7 5700X 8-Core Processor x86 64-Bit
+GPU: AMD Radeon RX 6700 XT
+Total RAM: 24 GB DDR4
+
+2025-04-28 | 0:00.61 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#151]:[0m Checking for new version...
+2025-04-28 | 0:01.00 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#170]:[0m Version online: [0.4.0], this version: [0.4.0]
+2025-04-28 | 0:01.00 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#189]:[0m Versions are matching!
+2025-04-28 | 0:02.07 [INFO] - [4;90m[backend.DiscordClient/onReady#52]:[0m (Discord) Connected to User (yuyioyt)
+2025-04-28 | 0:12.23 [INFO] - [4;90m[slushi.states.freeplay.SlushiFreeplayState/moveToSong#948]:[0m CURRENT WEEK: week1
+2025-04-28 | 0:12.24 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-28 | 0:12.28 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart shattered with format unknown to psych_v1 format...
+2025-04-28 | 0:12.29 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-28 | 0:12.30 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\shattered\shattered.json
+2025-04-28 | 0:12.31 [INFO] - [4;90m[slushi.states.freeplay.SlushiFreeplayState/moveToSong#956]:[0m shattered
+2025-04-28 | 0:12.36 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-28 | 0:12.38 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: characters/bf/BOYFRIEND
+2025-04-28 | 0:12.66 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSplashes/noteSplashes
+2025-04-28 | 0:12.71 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-28 | 0:12.71 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-28 | 0:12.73 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverBlue
+2025-04-28 | 0:12.75 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverGreen
+2025-04-28 | 0:13.35 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-28 | 0:13.36 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-28 | 0:13.54 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/GF_assets
+2025-04-28 | 0:13.54 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/bambi/Angry Bambi
+2025-04-28 | 0:13.54 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverBlue.png
+2025-04-28 | 0:13.56 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSplashes/noteSplashes.png
+2025-04-28 | 0:13.68 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/GF_assets.png
+2025-04-28 | 0:13.69 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverGreen.png
+2025-04-28 | 0:13.78 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/bambi/Angry Bambi.png
+2025-04-28 | 0:13.79 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSkins/NOTE_assets.png
+2025-04-28 | 0:13.79 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverPurple.png
+2025-04-28 | 0:14.04 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song shattered/Voices
+2025-04-28 | 0:14.58 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song shattered/Inst
+2025-04-28 | 0:14.60 [INFO] - [4;90m[states.PlayState/create#861]:[0m [comboData => [totalNoteCount => 0, swags => 0, misses => 0, highestCombo => 0, maxCombo => 0, shits => 0, sicks => 0, totalNotesHit => 0, goods => 0, bads => 0, combo => 0, totalPlayed => 0], rankData => [comboRank => , accuracy => 0, rating => ], mainData => [score => 0, opponentMode => false, name => shattered, difficulty => 1]]shattered1
+2025-04-28 | 0:14.63 [SLE_INFO] - [4;90m[slushi.slushiUtils.LyricsUtils/new#35]:[0m Lyrics JSON file not found!
+2025-04-28 | 0:14.97 [INFO] - [4;90m[states.PlayState/create#1007]:[0m current stage, farmSunset
+2025-04-28 | 0:14.98 [INFO] - [4;90m[backend.stage.Stage/setupWeekDir#193]:[0m directory: shared
+2025-04-28 | 0:14.98 [INFO] - [4;90m[backend.stage.Stage/setupStageProperties#101]:[0m STAGE INFO JSON ? assets/shared/data/stages/farmSunset.json
+2025-04-28 | 0:14.99 [WARN] - [4;90m[backend.stage.Stage/setupStageProperties#107]:[0m farmSunset.json not found, using the default stage
+2025-04-28 | 0:15.98 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/events.json
+2025-04-28 | 0:16.02 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart events with format unknown to psych_v1 format...
+2025-04-28 | 0:18.39 [INFO] - [4;90m[states.PlayState/cacheCharacter#9946]:[0m found cube
+2025-04-28 | 0:18.40 [INFO] - [4;90m[states.PlayState/cacheCharacter#9946]:[0m found cube
+2025-04-28 | 0:18.40 [INFO] - [4;90m[states.PlayState/cacheCharacter#9946]:[0m found bf
+2025-04-28 | 0:18.41 [INFO] - [4;90m[states.PlayState/cacheCharacter#9946]:[0m found angry-bambi
+2025-04-28 | 0:18.97 [INFO] - [4;90m[states.PlayState/cacheCharacter#9946]:[0m found bambi-mad-guitar
+2025-04-28 | 0:21.73 [INFO] - [4;90m[states.PlayState/startSong#2747]:[0m started loading!
+2025-04-28 | 0:21.74 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 0:21.76 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 0:21.78 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:02.02 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-28 | 1:02.03 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart shattered with format unknown to psych_v1 format...
+2025-04-28 | 1:02.04 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-28 | 1:02.05 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\shattered\shattered.json
+2025-04-28 | 1:06.05 [INFO] - [4;90m[slushi.states.freeplay.SlushiFreeplayState/moveToSong#948]:[0m CURRENT WEEK: week1
+2025-04-28 | 1:06.05 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/reality-breaking/reality-breaking.json
+2025-04-28 | 1:06.11 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/reality-breaking/reality-breaking.json
+2025-04-28 | 1:06.11 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\reality-breaking\reality-breaking.json
+2025-04-28 | 1:06.12 [INFO] - [4;90m[slushi.states.freeplay.SlushiFreeplayState/moveToSong#956]:[0m reality-breaking
+2025-04-28 | 1:06.13 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-28 | 1:06.15 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: characters/bf/BOYFRIEND
+2025-04-28 | 1:06.16 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: characters/bambi/bambi God 2D
+2025-04-28 | 1:06.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-28 | 1:06.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSplashes/noteSplashes
+2025-04-28 | 1:06.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-28 | 1:06.17 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/GF_assets
+2025-04-28 | 1:06.18 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverGreen
+2025-04-28 | 1:06.18 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-28 | 1:06.18 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverBlue
+2025-04-28 | 1:06.18 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-28 | 1:06.58 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song reality-breaking/Voices
+2025-04-28 | 1:06.63 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song reality-breaking/Inst
+2025-04-28 | 1:06.90 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverGreen.png
+2025-04-28 | 1:06.91 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverBlue.png
+2025-04-28 | 1:06.92 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverPurple.png
+2025-04-28 | 1:06.94 [INFO] - [4;90m[states.PlayState/create#861]:[0m [comboData => [totalNoteCount => 0, swags => 0, misses => 0, highestCombo => 0, maxCombo => 0, shits => 0, sicks => 0, totalNotesHit => 0, goods => 0, bads => 0, combo => 0, totalPlayed => 0], rankData => [comboRank => , accuracy => 0, rating => ], mainData => [score => 0, opponentMode => false, name => reality-breaking, difficulty => 1]]reality-breaking1
+2025-04-28 | 1:06.99 [SLE_INFO] - [4;90m[slushi.slushiUtils.LyricsUtils/new#35]:[0m Lyrics JSON file not found!
+2025-04-28 | 1:08.36 [INFO] - [4;90m[states.PlayState/create#1007]:[0m current stage, farmNightRB
+2025-04-28 | 1:08.36 [INFO] - [4;90m[backend.stage.Stage/setupWeekDir#193]:[0m directory: shared
+2025-04-28 | 1:08.37 [INFO] - [4;90m[backend.stage.Stage/setupStageProperties#101]:[0m STAGE INFO JSON ? assets/shared/data/stages/farmNightRB.json
+2025-04-28 | 1:08.38 [WARN] - [4;90m[backend.stage.Stage/setupStageProperties#107]:[0m farmNightRB.json not found, using the default stage
+2025-04-28 | 1:08.44 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/reality-breaking/events.json
+2025-04-28 | 1:10.05 [INFO] - [4;90m[states.PlayState/startSong#2747]:[0m started loading!
+2025-04-28 | 1:10.05 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:10.06 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:10.07 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:10.08 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.52 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.52 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.53 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.55 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.56 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.56 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.57 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.58 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.59 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.60 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.60 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.61 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.62 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.63 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.63 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.64 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.65 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.65 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.66 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.67 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.68 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.68 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.69 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.70 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.70 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.71 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.72 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.73 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.73 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.74 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.75 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.77 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.78 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.79 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.80 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.82 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:27.86 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:41.92 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:41.93 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:41.95 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:41.96 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:41.97 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:41.98 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:41.99 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.01 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.02 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.03 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.04 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.05 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.06 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.07 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.08 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.09 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.10 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.12 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.13 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.14 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.15 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.16 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.17 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.18 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.19 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.20 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.21 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.23 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.24 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.26 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.27 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.28 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.29 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.30 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.31 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.32 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.33 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.34 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.35 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.36 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.37 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.39 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.40 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.41 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.42 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.43 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.44 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.46 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.49 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.50 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.52 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:42.54 [WARN] - [4;90m[states.PlayState/update#4314]:[0m Warning! Delay is too fucking high!!
+2025-04-28 | 1:57.73 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/reality-breaking/reality-breaking.json
+2025-04-28 | 1:57.74 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/reality-breaking/reality-breaking.json
+2025-04-28 | 1:57.75 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\reality-breaking\reality-breaking.json
+2025-04-28 | 2:02.80 [INFO] - [4;90m[slushi.states.freeplay.SlushiFreeplayState/moveToSong#948]:[0m CURRENT WEEK: week2
+2025-04-28 | 2:02.80 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/rebound/rebound.json
+2025-04-28 | 2:02.85 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart rebound with format unknown to psych_v1 format...
+2025-04-28 | 2:02.86 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/rebound/rebound.json
+2025-04-28 | 2:02.87 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\rebound\rebound.json
+2025-04-28 | 2:02.88 [INFO] - [4;90m[slushi.states.freeplay.SlushiFreeplayState/moveToSong#956]:[0m rebound
+2025-04-28 | 2:02.89 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-28 | 2:02.91 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: characters/bf/BOYFRIEND
+2025-04-28 | 2:02.92 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid songs: rebound/Inst
+2025-04-28 | 2:02.92 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-28 | 2:02.92 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSplashes/noteSplashes
+2025-04-28 | 2:02.93 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-28 | 2:02.93 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/GF_assets
+2025-04-28 | 2:02.93 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverBlue
+2025-04-28 | 2:02.93 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-28 | 2:02.93 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverGreen
+2025-04-28 | 2:02.93 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-28 | 2:03.12 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/expunged/404
+2025-04-28 | 2:03.72 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/expunged/404.png
+2025-04-28 | 2:03.72 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverGreen.png
+2025-04-28 | 2:03.73 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverPurple.png
+2025-04-28 | 2:03.73 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverBlue.png
+2025-04-28 | 2:03.77 [INFO] - [4;90m[states.PlayState/create#861]:[0m [comboData => [totalNoteCount => 0, swags => 0, misses => 0, highestCombo => 0, maxCombo => 0, shits => 0, sicks => 0, totalNotesHit => 0, goods => 0, bads => 0, combo => 0, totalPlayed => 0], rankData => [comboRank => , accuracy => 0, rating => ], mainData => [score => 0, opponentMode => false, name => rebound, difficulty => 1]]rebound1
+2025-04-28 | 2:03.79 [SLE_INFO] - [4;90m[slushi.slushiUtils.LyricsUtils/new#35]:[0m Lyrics JSON file not found!
+2025-04-28 | 2:03.87 [INFO] - [4;90m[states.PlayState/create#1007]:[0m current stage, bambersHell
+2025-04-28 | 2:03.87 [INFO] - [4;90m[backend.stage.Stage/setupWeekDir#193]:[0m directory: shared
+2025-04-28 | 2:03.88 [INFO] - [4;90m[backend.stage.Stage/setupStageProperties#101]:[0m STAGE INFO JSON ? assets/shared/data/stages/bambersHell.json
+2025-04-28 | 2:05.48 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/rebound/events.json
+2025-04-28 | 2:05.52 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart events with format unknown to psych_v1 format...
+2025-04-28 | 2:05.56 [INFO] - [4;90m[states.PlayState/cacheCharacter#9946]:[0m found empty
+2025-04-28 | 2:05.57 [INFO] - [4;90m[states.PlayState/cacheCharacter#9946]:[0m found 404-unfinished
+2025-04-28 | 2:05.57 [INFO] - [4;90m[states.PlayState/cacheCharacter#9946]:[0m found 404
+2025-04-28 | 2:10.30 [INFO] - [4;90m[states.PlayState/startSong#2747]:[0m started loading!
+2025-04-28 | 2:10.35 [ERROR] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#164]:[0m 
+CRASH:
+[38;5;1mCall Stack:
+[4mflixel/addons/effects/FlxTrail.hx#167[24m
+flixel/group/FlxGroup.hx#161
+states/MusicBeatState.hx#156
+states/PlayState.hx#4535
+flixel/FlxState.hx#241
+flixel/FlxGame.hx#750
+
+Uncaught Error:
+Null Object Reference[0m
+
+
+2025-04-28 | 2:10.43 [INFO] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#167]:[0m Starting Crash Handler in game
+2025-04-28 | 2:10.53 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [0], skipping it...
+2025-04-28 | 2:10.55 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [1], skipping it...
+2025-04-28 | 2:10.57 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [2], skipping it...
+2025-04-28 | 2:10.59 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [3], skipping it...
+2025-04-28 | 2:10.61 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [Null Object Reference]. Crash counter: [4], skipping it...
+2025-04-28 | 2:10.62 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#80]:[0m Too many crashes, quitting...

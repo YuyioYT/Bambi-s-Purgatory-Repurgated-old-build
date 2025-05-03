@@ -1,0 +1,61 @@
+2025-05-02 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#237]:[0m Debug logging initialized. Hello, developer.
+2025-05-02 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#242]:[0m This is a RELEASE build.
+2025-05-02 | 0:00.01 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#244]:[0m HaxeFlixel version: HaxeFlixel 5.9.0
+2025-05-02 | 0:00.01 [SLE_INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#245]:[0m Slushi Engine version: 0.4.0
+2025-05-02 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#246]:[0m SC Engine version: 1.5.2 (4eaf8c4)
+2025-05-02 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#247]:[0m This is a custom build of PE. Current version: 1.04
+2025-05-02 | 0:00.44 [INFO] - [4;90m[backend.DiscordClient/initialize#74]:[0m Discord Client initialized
+2025-05-02 | 0:00.44 [INFO] - [4;90m[objects.AlphaCharacter/loadAlphabetData#312]:[0m Reloaded letters successfully (assets/shared/images/alphabet.json)!
+2025-05-02 | 0:00.45 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#49]:[0m Wallpaper Path: C:\Users\osanc.DESKTOP-69O57J2\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper
+2025-05-02 | 0:00.46 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#50]:[0m Saving the path in a private variable...
+2025-05-02 | 0:00.61 [SLE_INFO] - [4;90m[slushi.others.systemUtils.SystemInfo/formatSysInfo#159]:[0m 
+
+System: Microsoft Windows 11 Home 10.0.22631
+CPU: AMD Ryzen 7 5700X 8-Core Processor x86 64-Bit
+GPU: AMD Radeon RX 6700 XT
+Total RAM: 24 GB DDR4
+
+2025-05-02 | 0:00.63 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#151]:[0m Checking for new version...
+2025-05-02 | 0:00.88 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#170]:[0m Version online: [0.4.0], this version: [0.4.0]
+2025-05-02 | 0:00.89 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#189]:[0m Versions are matching!
+2025-05-02 | 0:12.13 [INFO] - [4;90m[slushi.states.freeplay.SlushiFreeplayState/moveToSong#948]:[0m CURRENT WEEK: week1
+2025-05-02 | 0:12.14 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-05-02 | 0:12.15 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart shattered with format unknown to psych_v1 format...
+2025-05-02 | 0:12.16 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-05-02 | 0:12.17 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\shattered\shattered.json
+2025-05-02 | 0:12.17 [INFO] - [4;90m[slushi.states.freeplay.SlushiFreeplayState/moveToSong#956]:[0m shattered
+2025-05-02 | 0:12.18 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: characters/bf/BOYFRIEND
+2025-05-02 | 0:12.18 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-05-02 | 0:12.19 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverBlue
+2025-05-02 | 0:12.19 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverGreen
+2025-05-02 | 0:12.19 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-05-02 | 0:12.19 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-05-02 | 0:12.20 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSplashes/noteSplashes
+2025-05-02 | 0:12.21 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-05-02 | 0:12.21 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-05-02 | 0:12.69 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/bambi/Angry Bambi
+2025-05-02 | 0:12.71 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/GF_assets
+2025-05-02 | 0:12.86 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song shattered/Voices
+2025-05-02 | 0:12.89 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song shattered/Inst
+2025-05-02 | 0:12.95 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSplashes/noteSplashes.png
+2025-05-02 | 0:12.96 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverBlue.png
+2025-05-02 | 0:12.96 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/GF_assets.png
+2025-05-02 | 0:12.97 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverGreen.png
+2025-05-02 | 0:12.97 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/bambi/Angry Bambi.png
+2025-05-02 | 0:12.98 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSkins/NOTE_assets.png
+2025-05-02 | 0:12.98 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverPurple.png
+2025-05-02 | 0:13.02 [ERROR] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#164]:[0m 
+CRASH:
+[38;5;1mCall Stack:
+[4mflixel/group/FlxGroup.hx#157[24m
+states/MusicBeatState.hx#156
+states/LoadingState.hx#103
+flixel/FlxState.hx#241
+flixel/FlxGame.hx#750
+
+Uncaught Error:
+Null Object Reference[0m
+
+
+2025-05-02 | 0:13.04 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [[UncaughtErrorEvent type="uncaughtError" bubbles=true cancelable=true error="Null Object Reference"]]. Crash counter: [0], skipping it...
+2025-05-02 | 0:13.07 [SLE_WARN] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#76]:[0m Trying to make a another crash while is already in a crash with error: [[UncaughtErrorEvent type="uncaughtError" bubbles=true cancelable=true error="Null Object Reference"]]. Crash counter: [1], skipping it...

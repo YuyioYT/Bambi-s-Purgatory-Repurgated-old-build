@@ -1,0 +1,28 @@
+2025-04-16 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#237]:[0m Debug logging initialized. Hello, developer.
+2025-04-16 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#242]:[0m This is a RELEASE build.
+2025-04-16 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#244]:[0m HaxeFlixel version: HaxeFlixel 5.9.0
+2025-04-16 | 0:00.01 [SLE_INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#245]:[0m Slushi Engine version: 0.4.0
+2025-04-16 | 0:00.01 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#246]:[0m SC Engine version: 1.5.2 (4eaf8c4)
+2025-04-16 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#247]:[0m This is a custom build of PE. Current version: 1.04
+2025-04-16 | 0:00.03 [INFO] - [4;90m[objects.AlphaCharacter/loadAlphabetData#312]:[0m Reloaded letters successfully (assets/shared/images/alphabet.json)!
+2025-04-16 | 0:00.03 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#49]:[0m Wallpaper Path: C:\Users\osanc.DESKTOP-69O57J2\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper
+2025-04-16 | 0:00.04 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#50]:[0m Saving the path in a private variable...
+2025-04-16 | 0:00.17 [SLE_INFO] - [4;90m[slushi.others.systemUtils.SystemInfo/formatSysInfo#159]:[0m 
+
+System: Microsoft Windows 11 Home 10.0.22631
+CPU: AMD Ryzen 7 5700X 8-Core Processor x86 64-Bit
+GPU: AMD Radeon RX 6700 XT
+Total RAM: 24 GB DDR4
+
+2025-04-16 | 0:00.41 [ERROR] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#164]:[0m 
+CRASH:
+[38;5;1mCall Stack:
+[4mslushi/states/SlushiTitleState.hx#381[24m
+slushi/states/SlushiTitleState.hx#209
+flixel/FlxGame.hx#640
+
+Uncaught Error:
+Null Object Reference[0m
+
+
+2025-04-16 | 0:00.81 [INFO] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#167]:[0m Starting Crash Handler in game

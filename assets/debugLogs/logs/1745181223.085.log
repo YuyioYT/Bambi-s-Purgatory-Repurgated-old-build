@@ -1,0 +1,101 @@
+2025-04-20 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#237]:[0m Debug logging initialized. Hello, developer.
+2025-04-20 | 0:00.00 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#242]:[0m This is a RELEASE build.
+2025-04-20 | 0:00.01 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#244]:[0m HaxeFlixel version: HaxeFlixel 5.9.0
+2025-04-20 | 0:00.01 [SLE_INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#245]:[0m Slushi Engine version: 0.4.0
+2025-04-20 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#246]:[0m SC Engine version: 1.5.2 (4eaf8c4)
+2025-04-20 | 0:00.02 [INFO] - [4;90m[slushi.slushiUtils.Debug/onInitProgram#247]:[0m This is a custom build of PE. Current version: 1.04
+2025-04-20 | 0:00.05 [INFO] - [4;90m[backend.DiscordClient/initialize#74]:[0m Discord Client initialized
+2025-04-20 | 0:00.07 [INFO] - [4;90m[objects.AlphaCharacter/loadAlphabetData#312]:[0m Reloaded letters successfully (assets/shared/images/alphabet.json)!
+2025-04-20 | 0:00.07 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#49]:[0m Wallpaper Path: C:\Users\osanc.DESKTOP-69O57J2\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper
+2025-04-20 | 0:00.08 [SLE_INFO] - [4;90m[slushi.windows.WindowsFuncs/saveCurrentWindowsWallpaper#50]:[0m Saving the path in a private variable...
+2025-04-20 | 0:00.37 [SLE_INFO] - [4;90m[slushi.others.systemUtils.SystemInfo/formatSysInfo#159]:[0m 
+
+System: Microsoft Windows 11 Home 10.0.22631
+CPU: AMD Ryzen 7 5700X 8-Core Processor x86 64-Bit
+GPU: AMD Radeon RX 6700 XT
+Total RAM: 24 GB DDR4
+
+2025-04-20 | 0:00.51 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#151]:[0m Checking for new version...
+2025-04-20 | 0:01.13 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#170]:[0m Version online: [0.4.0], this version: [0.4.0]
+2025-04-20 | 0:01.14 [SLE_INFO] - [4;90m[slushi.SlushiMain/getBuildVer#189]:[0m Versions are matching!
+2025-04-20 | 0:30.62 [INFO] - [4;90m[states.freeplay.FreeplayState/moveToSong#908]:[0m CURRENT WEEK: week1
+2025-04-20 | 0:30.63 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-20 | 0:30.67 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart shattered with format unknown to psych_v1 format...
+2025-04-20 | 0:30.68 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-20 | 0:30.68 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\shattered\shattered.json
+2025-04-20 | 0:30.69 [INFO] - [4;90m[states.freeplay.FreeplayState/moveToSong#916]:[0m shattered
+2025-04-20 | 0:30.69 [INFO] - [4;90m[states.LoadingState/loadNextDirectory#165]:[0m Setting asset folder to shared
+2025-04-20 | 0:30.75 [WARN] - [4;90m[states.LoadingState/clearInvalidFrom#455]:[0m Removed invalid images: characters/bf/BOYFRIEND
+2025-04-20 | 0:31.12 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-20 | 0:31.12 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverPurple
+2025-04-20 | 0:31.13 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverBlue
+2025-04-20 | 0:31.16 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image HoldNoteEffect/holdCoverGreen
+2025-04-20 | 0:31.71 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSplashes/noteSplashes
+2025-04-20 | 0:31.71 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-20 | 0:31.71 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image noteSkins/NOTE_assets
+2025-04-20 | 0:31.84 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/bambi/Angry Bambi
+2025-04-20 | 0:31.85 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading image characters/GF_assets
+2025-04-20 | 0:31.91 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSplashes/noteSplashes.png
+2025-04-20 | 0:31.92 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverBlue.png
+2025-04-20 | 0:31.92 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/GF_assets.png
+2025-04-20 | 0:31.93 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverGreen.png
+2025-04-20 | 0:31.94 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/characters/bambi/Angry Bambi.png
+2025-04-20 | 0:31.94 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/noteSkins/NOTE_assets.png
+2025-04-20 | 0:31.95 [INFO] - [4;90m[states.LoadingState/checkLoaded#147]:[0m finished preloading image assets/shared/images/HoldNoteEffect/holdCoverPurple.png
+2025-04-20 | 0:44.27 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song shattered/Voices
+2025-04-20 | 0:44.42 [INFO] - [4;90m[states.LoadingState/initThread#486]:[0m finished preloading song shattered/Inst
+2025-04-20 | 0:44.44 [INFO] - [4;90m[states.PlayState/create#691]:[0m { mainData => { difficulty => 1, name => shattered, opponentMode => false, score => 0 }, rankData => { rating => , accuracy => 0, comboRank =>  }, comboData => { swags => 0, goods => 0, totalNotesHit => 0, maxCombo => 0, totalPlayed => 0, highestCombo => 0, bads => 0, combo => 0, misses => 0, totalNoteCount => 0, shits => 0, sicks => 0 } }shattered1
+2025-04-20 | 0:50.49 [SLE_INFO] - [4;90m[slushi.slushiUtils.LyricsUtils/new#35]:[0m Lyrics JSON file not found!
+2025-04-20 | 0:50.68 [INFO] - [4;90m[states.PlayState/create#837]:[0m current stage, farmSunset
+2025-04-20 | 0:50.68 [INFO] - [4;90m[backend.stage.Stage/setupWeekDir#193]:[0m directory: shared
+2025-04-20 | 0:50.69 [INFO] - [4;90m[backend.stage.Stage/setupStageProperties#101]:[0m STAGE INFO JSON ? assets/shared/data/stages/farmSunset.json
+2025-04-20 | 0:50.69 [WARN] - [4;90m[backend.stage.Stage/setupStageProperties#107]:[0m farmSunset.json not found, using the default stage
+2025-04-20 | 0:51.39 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/events.json
+2025-04-20 | 0:51.42 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart events with format unknown to psych_v1 format...
+2025-04-20 | 0:53.28 [INFO] - [4;90m[states.PlayState/cacheCharacter#7924]:[0m found cube
+2025-04-20 | 0:53.28 [INFO] - [4;90m[states.PlayState/cacheCharacter#7924]:[0m found cube
+2025-04-20 | 0:53.29 [INFO] - [4;90m[states.PlayState/cacheCharacter#7924]:[0m found bf
+2025-04-20 | 0:53.29 [INFO] - [4;90m[states.PlayState/cacheCharacter#7924]:[0m found angry-bambi
+2025-04-20 | 0:53.84 [INFO] - [4;90m[states.PlayState/cacheCharacter#7924]:[0m found bambi-mad-guitar
+2025-04-20 | 0:56.80 [INFO] - [4;90m[states.PlayState/startSong#2376]:[0m started loading!
+2025-04-20 | 0:56.81 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.85 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.85 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.86 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.87 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.88 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.89 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.89 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.90 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.91 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.92 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.93 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.95 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.96 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:56.98 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:57.00 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 0:57.02 [WARN] - [4;90m[states.PlayState/update#3536]:[0m Warning! Delay is too fucking high!!
+2025-04-20 | 1:18.70 [ERROR] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#164]:[0m 
+CRASH:
+[38;5;1mCall Stack:
+[4mshaders/RGBPixelShader.hx#17[24m
+objects/note/NoteSplash.hx#310
+states/PlayState.hx#6829
+states/PlayState.hx#6821
+states/PlayState.hx#5717
+states/PlayState.hx#6480
+states/PlayState.hx#3679
+flixel/group/FlxGroup.hx#791
+states/PlayState.hx#3661
+flixel/FlxState.hx#241
+flixel/FlxGame.hx#750
+
+Uncaught Error:
+Null Object Reference[0m
+
+
+2025-04-20 | 1:18.78 [INFO] - [4;90m[slushi.slushiUtils.crashHandler.CrashHandler/onUncaughtError#167]:[0m Starting Crash Handler in game
+2025-04-20 | 1:29.93 [INFO] - [4;90m[backend.song.Song/getChart#120]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-20 | 1:29.94 [INFO] - [4;90m[backend.song.Song/parseJSON#148]:[0m converting chart shattered with format unknown to psych_v1 format...
+2025-04-20 | 1:29.95 [INFO] - [4;90m[backend.song.Song/loadFromJson#102]:[0m assets/shared/data/songs/shattered/shattered.json
+2025-04-20 | 1:29.95 [INFO] - [4;90m[backend.song.Song/loadFromJson#103]:[0m assets\shared\data\songs\shattered\shattered.json
