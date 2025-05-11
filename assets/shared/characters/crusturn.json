@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [120, 30],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-30, -110],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 5],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [110, 20],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/crusti/Crusturn",
+	"position": [-250, 0],
+	"healthicon": "Crusturn",
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 232, "green": 0, "red": 133},
+		{"blue": 255, "green": 0, "red": 173},
+		{"blue": 255, "green": 0, "red": 193}
+	],
+	"camera_position": [20, -170],
+	"sing_duration": 6.1,
+	"scale": 1.4,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				91764.7058823528,
+				[
+					[
+						"Change Character",
+						"1",
+						"decimated-dave"
+					]
+				]
+			],
+			[
+				196235.294117647,
+				[
+					[
+						"Change Character",
+						"2",
+						"crimson-bambi-cam"
+					]
+				]
+			],
+			[
+				232941.176470588,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf"
+					],
+					[
+						"Change Character",
+						"1",
+						"CCB"
+					]
+				]
+			],
+			[
+				324705.882352941,
+				[
+					[
+						"Change Character",
+						"1",
+						"decimated-dave"
+					]
+				]
+			],
+			[
+				329382.352941176,
+				[
+					[
+						"Change Character",
+						"1",
+						"CCB"
+					]
+				]
+			],
+			[
+				333882.352941176,
+				[
+					[
+						"Change Character",
+						"1",
+						"expunged"
+					]
+				]
+			],
+			[
+				342970.588235293,
+				[
+					[
+						"Change Character",
+						"1",
+						"decimated-dave"
+					]
+				]
+			],
+			[
+				347558.823529411,
+				[
+					[
+						"Change Character",
+						"1",
+						"CCB"
+					]
+				]
+			]
+		]
+	}
+}

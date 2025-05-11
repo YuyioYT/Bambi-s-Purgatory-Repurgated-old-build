@@ -1,0 +1,84 @@
+{
+	"storyName": "Ayo?",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"upheaval-unfinished-fanmade",
+			"god-expunged-1",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"uheaval-v1",
+			"god-expunged-1",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"upheaval-v25",
+			"god-expunged-1",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"upheaval-v3",
+			"god-expunged-1",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"upheaval-yuyio",
+			"god-expunged-1",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"upheaval-yuyio-v2",
+			"god-expunged-1",
+			[
+				20,
+				0,
+				0
+			]
+		],
+		[
+			"rsod-remix",
+			"icon-bombuExpunged",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Trio Guys"
+}

@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [855, 280],
+			"anim": "idle",
+			"fps": 16,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [736, 264],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [800, 240],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [785, 243],
+			"anim": "singUP",
+			"fps": 16,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [865, 246],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": " right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bamburg/Bamburg Freeze",
+	"position": [700, 300],
+	"healthicon": "Bamburg Freeze",
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 255, "red": 0, "green": 235},
+		{"blue": 255, "red": 255, "green": 255},
+		{"blue": 0, "red": 195, "green": 0}
+	],
+	"camera_position": [-890, -480],
+	"sing_duration": 6.09999999999999,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

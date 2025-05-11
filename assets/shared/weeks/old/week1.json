@@ -1,0 +1,76 @@
+{
+	"storyName": "Ayo?",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Shattered v1",
+			"Angry Bambi",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Supplanted",
+			"Bambi Rage",
+			[
+				175,
+				0,
+				0
+			]
+		],
+		[
+			"Supplanted-v1",
+			"bambiRage",
+			[
+				175,
+				0,
+				0
+			]
+		],
+		[
+			"Reality breaking v3",
+			"bambiGod2d",
+			[
+				255,
+				215,
+				215
+			]
+		],
+		[
+			"Reality breaking v2",
+			"bambiGod2d",
+			[
+				255,
+				215,
+				215
+			]
+		],
+		[
+			"Reality breaking v1",
+			"bambiGod2d",
+			[
+				215,
+				215,
+				255
+			]
+		]
+
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Bambi old week"
+}

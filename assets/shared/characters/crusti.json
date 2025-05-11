@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"offsets": [7, 22],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [-31, -15],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [-5, -6],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [-44, 9],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+			"name": "IDLE"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/crusti/Crusti",
+	"position": [-280, 35],
+	"healthicon": "Crusti",
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 90, "green": 132, "red": 222},
+		{"blue": 110, "green": 152, "red": 222},
+		{"blue": 130, "green": 172, "red": 222}
+	],
+	"camera_position": [30, -110],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.4,
+	"_editor_isPlayer": false
+}

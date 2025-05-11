@@ -1,0 +1,60 @@
+{
+	"animations": [
+		{
+			"offsets": [-60, 30],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": " left"
+		},
+		{
+			"offsets": [0, 20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " down"
+		},
+		{
+			"offsets": [-20, -93],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " right"
+		},
+		{
+			"offsets": [12, -132],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": " up"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": " idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/bambi/Aether bambi",
+	"position": [-370, -300],
+	"healthicon": "Aether Bambi",
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 255, "red": 255, "green": 255},
+		{"blue": 255, "red": 255, "green": 218},
+		{"blue": 215, "red": 255, "green": 178}
+	],
+	"camera_position": [-120, -240],
+	"sing_duration": 4.1,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

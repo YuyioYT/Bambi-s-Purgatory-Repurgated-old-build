@@ -1,0 +1,48 @@
+{
+	"storyName": "Crustation And The Poip Guy Thingy Bud CHum Pal Friend Buddy Chum Pal Friend Buddy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Delivery",
+			"Crusti",
+			[
+				215,
+				69,
+				0
+			]
+		],
+		[
+			"Acquaintance",
+			"Poip Scared",
+			[
+				146,
+				13,
+				193
+			]
+		],
+		[
+			"Double Act",
+			"Double",
+			[
+				215,
+				69,
+				140
+			]
+		]
+	],
+	"weekName": "IG()YHU$#*(_H#$"
+}
