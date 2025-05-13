@@ -9,7 +9,7 @@
 			"name": "idle"
 		},
 		{
-			"offsets": [1040, 314],
+			"offsets": [1026, 292],
 			"loop": false,
 			"fps": 12,
 			"anim": "singLEFT",
@@ -17,7 +17,7 @@
 			"name": "left"
 		},
 		{
-			"offsets": [822, 207],
+			"offsets": [620, 254],
 			"loop": false,
 			"fps": 12,
 			"anim": "singRIGHT",
@@ -25,7 +25,7 @@
 			"name": "right"
 		},
 		{
-			"offsets": [731, 340],
+			"offsets": [691, 110],
 			"loop": false,
 			"fps": 12,
 			"anim": "singDOWN",
@@ -33,7 +33,7 @@
 			"name": "down"
 		},
 		{
-			"offsets": [711, 337],
+			"offsets": [701, 421],
 			"loop": false,
 			"fps": 12,
 			"anim": "singUP",
@@ -44,17 +44,17 @@
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/bamburg/bamburg crazy",
-	"position": [600, 280],
+	"position": [560, 180],
 	"healthicon": "Bamburg Crazy",
 	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		{"green": 91, "red": 137, "blue": 0},
-		{"green": 191, "red": 255, "blue": 0},
-		{"green": 91, "red": 137, "blue": 0}
+		{"blue": 0, "green": 91, "red": 137},
+		{"blue": 0, "green": 191, "red": 255},
+		{"blue": 0, "green": 91, "red": 137}
 	],
-	"camera_position": [-750, -320],
-	"sing_duration": 6.09999999999999,
+	"camera_position": [-590, -300],
+	"sing_duration": 6.1,
 	"scale": 1,
 	"_editor_isPlayer": false
 }
