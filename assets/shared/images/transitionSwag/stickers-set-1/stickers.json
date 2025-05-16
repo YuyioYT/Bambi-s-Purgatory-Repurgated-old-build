@@ -2,12 +2,18 @@
   "name": "stickers-set-1",
   "artist": "PhantomArcade3K",
   "stickers": {
-    "bf": ["bfSticker1", "bfSticker2", "bfSticker3"]
-    "bambi": ["bambiSticker1", "bambiSticker2", "bambiSticker3"]
+    "bf": ["bfSticker1", "bfSticker2", "bfSticker3"],
+    "bambi": ["bambiSticker1", "bambiSticker2", "bambiSticker3"],
+    "404": ["404Sticker1"],
+    "expunged": ["expungedSticker1"],
+    "bamburg": ["bamburgSticker1","bamburgSticker2"]
   },
   "stickerPacks": {
     "bf": ["bf"],
     "bambi": ["bambi"],
-    "all": ["bf","bambi"]
+    "404": ["404"],
+    "bamburg": ["bamburg"],
+    "expunged": ["expunged"],
+    "all": ["bf","bambi","404","bamburg"]
   }
 }
