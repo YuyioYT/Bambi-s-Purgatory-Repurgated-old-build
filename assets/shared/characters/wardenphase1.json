@@ -1,10 +1,7 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				396,
-				261
-			],
+			"offsets": [396, 261],
 			"loop": false,
 			"fps": 12,
 			"anim": "idle",
@@ -12,10 +9,7 @@
 			"name": "idle"
 		},
 		{
-			"offsets": [
-				316,
-				261
-			],
+			"offsets": [271, 293],
 			"loop": false,
 			"fps": 12,
 			"anim": "singLEFT",
@@ -23,10 +17,7 @@
 			"name": "left"
 		},
 		{
-			"offsets": [
-				496,
-				231
-			],
+			"offsets": [525, 240],
 			"loop": false,
 			"fps": 12,
 			"anim": "singRIGHT",
@@ -34,10 +25,7 @@
 			"name": "right"
 		},
 		{
-			"offsets": [
-				346,
-				121
-			],
+			"offsets": [306, 161],
 			"loop": false,
 			"fps": 12,
 			"anim": "singUP",
@@ -45,10 +33,7 @@
 			"name": "up"
 		},
 		{
-			"offsets": [
-				406,
-				337
-			],
+			"offsets": [426, 307],
 			"loop": false,
 			"fps": 12,
 			"anim": "singDOWN",
@@ -56,23 +41,20 @@
 			"name": "down"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": true,
-	"image": "characters/Warden",
-	"position": [
-		-240,
-		-310
-	],
+	"image": "characters/expunged/Warden P1",
+	"position": [-360, -360],
 	"healthicon": "WardenPhase1",
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		{"blue": 255, "red": 255, "green": 255},
+		{"blue": 235, "red": 235, "green": 235},
+		{"blue": 215, "red": 215, "green": 215}
 	],
-	"camera_position": [
-		-460,
-		-70
-	],
+	"camera_position": [-250, -130],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1,
+	"_editor_isPlayer": false
 }

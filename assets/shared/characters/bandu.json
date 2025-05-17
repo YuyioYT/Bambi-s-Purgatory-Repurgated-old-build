@@ -44,7 +44,7 @@
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/bandu/Bandu",
-	"position": [-110, -50],
+	"position": [-100, -50],
 	"healthicon": "Bandu",
 	"healthbar_count": 3,
 	"flip_x": false,
@@ -53,8 +53,8 @@
 		{"blue": 66, "green": 255, "red": 0},
 		{"blue": 106, "green": 255, "red": 0}
 	],
-	"camera_position": [70, -60],
+	"camera_position": [-220, -60],
 	"sing_duration": 6.09999999999999,
-	"scale": 1,
+	"scale": 3.7,
 	"_editor_isPlayer": false
 }

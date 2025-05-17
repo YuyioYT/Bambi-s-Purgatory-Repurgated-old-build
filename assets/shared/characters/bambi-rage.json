@@ -52,7 +52,7 @@
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/bambi/bambi-rage",
-	"position": [115, 365],
+	"position": [185, 375],
 	"healthicon": "Bambi Rage",
 	"healthbar_count": 3,
 	"flip_x": false,
@@ -61,7 +61,7 @@
 		{"blue": 20, "red": 235, "green": 0},
 		{"blue": 40, "red": 215, "green": 0}
 	],
-	"camera_position": [0, 0],
+	"camera_position": [-170, 10],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": false

@@ -9,7 +9,7 @@
 			"name": "idle"
 		},
 		{
-			"offsets": [492, 304],
+			"offsets": [522, 304],
 			"loop": false,
 			"fps": 12,
 			"anim": "singLEFT",
@@ -17,7 +17,7 @@
 			"name": "left"
 		},
 		{
-			"offsets": [157, 331],
+			"offsets": [158, 333],
 			"loop": false,
 			"fps": 12,
 			"anim": "singRIGHT",
@@ -25,7 +25,7 @@
 			"name": "right"
 		},
 		{
-			"offsets": [430, 314],
+			"offsets": [427, 313],
 			"loop": false,
 			"fps": 12,
 			"anim": "singUP",
@@ -33,7 +33,7 @@
 			"name": "up"
 		},
 		{
-			"offsets": [262, 54],
+			"offsets": [282, 4],
 			"loop": false,
 			"fps": 12,
 			"anim": "singDOWN",
@@ -44,7 +44,7 @@
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/expunged/Warden P2",
-	"position": [-320, 0],
+	"position": [-370, -20],
 	"healthicon": "WardenPhase2",
 	"healthbar_count": 3,
 	"flip_x": false,
@@ -53,7 +53,7 @@
 		{"blue": 0, "green": 0, "red": 115},
 		{"blue": 0, "green": 0, "red": 235}
 	],
-	"camera_position": [-240, -560],
+	"camera_position": [-440, -600],
 	"sing_duration": 6.1,
 	"scale": 1.5,
 	"_editor_isPlayer": false
