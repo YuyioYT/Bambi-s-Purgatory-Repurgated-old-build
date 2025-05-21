@@ -1,78 +1,60 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				-1
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle",
+			"offsets": [-9, 12],
 			"indices": [],
-			"name": "Idle"
-		},
-		{
-			"offsets": [
-				161,
-				-8
-			],
-			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"loop": false,
+			"name": "down"
 		},
 		{
-			"offsets": [
-				8,
-				329
-			],
-			"loop": false,
+			"offsets": [0, -1],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [8, 49],
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"loop": false,
+			"name": "up"
 		},
 		{
-			"offsets": [
-				271,
-				-7
-			],
-			"loop": false,
+			"offsets": [261, 13],
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"loop": false,
+			"name": "left"
 		},
 		{
-			"offsets": [
-				-253,
-				31
-			],
-			"loop": false,
+			"offsets": [-133, -129],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"loop": false,
+			"name": "right"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/bandu/Badai",
-	"position": [
-		-380,
-		-130
-	],
+	"position": [-840, -460],
 	"healthicon": "Badai",
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		44,
-		180
+		{"green": 44, "red": 255, "blue": 180},
+		{"green": 24, "red": 235, "blue": 180},
+		{"green": 4, "red": 215, "blue": 180}
 	],
-	"camera_position": [
-		-60,
-		75
-	],
+	"camera_position": [420, 205],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 0.8,
+	"_editor_isPlayer": false
 }
