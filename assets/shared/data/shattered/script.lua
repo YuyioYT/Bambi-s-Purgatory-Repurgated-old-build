@@ -68,93 +68,93 @@ makeLuaSprite("gg","thisIsForTheScreen",-15000,-15000)
 scaleObject('gg', 50, 50)
 
 
-makeLuaSprite("NN1",'hud/shattered/events/nostal/nostal1',0,0)
+makeLuaSprite("NN1",'nostal/nostal1',0,0)
 	setObjectCamera("NN1",'other')
 	addLuaSprite("NN1",true)
 		setProperty("NN1.alpha",0)
 
-makeLuaSprite("NN2",'hud/shattered/events/nostal/nostal2',-300,-100)
+makeLuaSprite("NN2",'nostal/nostal2',-300,-100)
 	setObjectCamera("NN2",'other')
 	addLuaSprite("NN2",true)
 		setProperty("NN2.alpha",0)
 scaleObject('NN2', 0.6, 0.6)
 
 
-makeLuaSprite("NN3",'hud/shattered/events/nostal/nostal3',-350,100)
+makeLuaSprite("NN3",'nostal/nostal3',-350,100)
 	setObjectCamera("NN3",'other')
 	addLuaSprite("NN3",true)
 		setProperty("NN3.alpha",0)
 scaleObject('NN3', 0.7, 0.7)
 
 
-makeLuaSprite("NN4",'hud/shattered/events/nostal/nostal4',0,0)
+makeLuaSprite("NN4",'nostal/nostal4',0,0)
 	setObjectCamera("NN4",'other')
 	addLuaSprite("NN4",true)
 		setProperty("NN4.alpha",0)
 
-makeLuaSprite("NN5",'hud/shattered/events/nostal/nostal5',100,-400)
+makeLuaSprite("NN5",'nostal/nostal5',100,-400)
 	setObjectCamera("NN5",'other')
 	addLuaSprite("NN5",true)
 		setProperty("NN5.alpha",0)
 scaleObject('NN5', 0.8, 0.8)
 
 
-makeLuaSprite("NN6",'hud/shattered/events/nostal/nostal6',0,0)
+makeLuaSprite("NN6",'nostal/nostal6',0,0)
 	setObjectCamera("NN6",'other')
 	addLuaSprite("NN6",true)
 		setProperty("NN6.alpha",0)
 
-makeLuaSprite("NN6.5",'hud/shattered/events/nostal/nostal6.5',0,0)
+makeLuaSprite("NN6.5",'nostal/nostal6.5',0,0)
 	setObjectCamera("NN6.5",'other')
 	addLuaSprite("NN6.5",true)
 		setProperty("NN6.5.alpha",0)
 
-makeLuaSprite("NN7",'hud/shattered/events/nostal/nostal7',-400,100)
+makeLuaSprite("NN7",'nostal/nostal7',-400,100)
 	setObjectCamera("NN7",'other')
 	addLuaSprite("NN7",true)
 		setProperty("NN7.alpha",0)
 scaleObject('NN7', 0.6, 0.6)
 
 
-makeLuaSprite("NN9",'hud/shattered/events/nostal/nostal9',0,-400)
+makeLuaSprite("NN9",'nostal/nostal9',0,-400)
 	setObjectCamera("NN9",'other')
 	addLuaSprite("NN9",true)
 		setProperty("NN9.alpha",0)
 scaleObject('NN9', 0.9, 0.9)
 
 
-makeLuaSprite("NN10",'hud/shattered/events/nostal/nostal10',0,0)
+makeLuaSprite("NN10",'nostal/nostal10',0,0)
 	setObjectCamera("NN10",'other')
 	addLuaSprite("NN10",true)
 		setProperty("NN10.alpha",0)
 
-makeLuaSprite("NN11",'hud/shattered/events/nostal/nostal11',-400,100)
+makeLuaSprite("NN11",'nostal/nostal11',-400,100)
 	setObjectCamera("NN11",'other')
 	addLuaSprite("NN11",true)
 		setProperty("NN11.alpha",0)
 
-makeLuaSprite("NN12.5",'hud/shattered/events/nostal/nostal12.5',100,0)
+makeLuaSprite("NN12.5",'nostal/nostal12.5',100,0)
 	setObjectCamera("NN12",'other')
 	addLuaSprite("NN12.5",true)
 		setProperty("NN12.5.alpha",0)
 
 
-makeLuaSprite("NN12",'hud/shattered/events/nostal/nostal12',200,-250)
+makeLuaSprite("NN12",'nostal/nostal12',200,-250)
 	setObjectCamera("NN12",'other')
 	addLuaSprite("NN12",true)
 		setProperty("NN12.alpha",0)
 
-makeLuaSprite("NN13",'hud/shattered/events/nostal/nostal13',-200,300)
+makeLuaSprite("NN13",'nostal/nostal13',-200,300)
 	setObjectCamera("NN13",'other')
 	addLuaSprite("NN13",true)
 		setProperty("NN13.alpha",0)
 
-makeLuaSprite("NN14",'hud/shattered/events/nostal/nostal14',-200,-250)
+makeLuaSprite("NN14",'nostal/nostal14',-200,-250)
 	setObjectCamera("NN14",'other')
 	addLuaSprite("NN14",true)
 		setProperty("NN14.alpha",0)
 
-makeLuaSprite("NN15",'hud/shattered/events/nostal/nostal15',-350,-200)
+makeLuaSprite("NN15",'nostal/nostal15',-350,-200)
 	setObjectCamera("NN15",'other')
 	addLuaSprite("NN15",true)
 		setProperty("NN15.alpha",0)
@@ -328,7 +328,7 @@ if curStep == 192 then
 doTweenY('hudud', 'camHUD', 0 , 1, 'CubeOut')
 end
 if curStep == 246 then
- triggerEvent('Camera Follow Pos', '600', '500')
+ triggerEvent('Camera Follow Pos', '600', '560')
 doTweenAlpha('byeBPRP', 'BPRP', 0, 0.1, 'quadInOut');
 end
 if curStep == 256 then
