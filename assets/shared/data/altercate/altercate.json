@@ -1911,7 +1911,7 @@
 	"healthdrainKill": false,
 	"cameraMoveOnNotes": false,
 	"healthdrain": 1,
-	"stage": "3dTunnel",
+	"stage": "WormHole",
 	"needsVoices": false,
 	"bpm": 165
 }

@@ -1,100 +1,100 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [40, -350],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "a_bambi idle"
+			"fps": 24,
+			"name": "a_bambi idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [57, -308],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "a_bambi up"
+			"fps": 24,
+			"name": "a_bambi up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [52, -347],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "a_bambi right"
+			"fps": 24,
+			"name": "a_bambi right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [136, -359],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "a_bambi left"
+			"fps": 24,
+			"name": "a_bambi left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [49, -376],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "a_bambi down"
+			"fps": 24,
+			"name": "a_bambi down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [193, -328],
-			"loop": false,
-			"fps": 24,
 			"anim": "throw",
-			"indices": [],
-			"name": "a_bambi throw"
+			"fps": 24,
+			"name": "a_bambi throw",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [60, -317],
-			"loop": false,
-			"fps": 24,
 			"anim": "scream",
-			"indices": [],
-			"name": "a_bambi scream"
+			"fps": 24,
+			"name": "a_bambi scream",
+			"indices": []
 		},
 		{
-			"offsets": [30, -350],
 			"loop": false,
-			"fps": 24,
+			"offsets": [30, -350],
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "bambi idiot"
+			"fps": 24,
+			"name": "bambi idiot",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [30, -350],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "bambi idiot"
+			"fps": 24,
+			"name": "bambi idiot",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [61, -345],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "bambi alt left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [40, -338],
-			"anim": "singRIGHT-alt",
-			"fps": 24,
-			"name": "bambi alt right",
-			"indices": []
-		},
-		{
-			"offsets": [116, -268],
-			"loop": false,
-			"fps": 24,
-			"anim": "break",
 			"indices": [],
-			"name": "a_bambi phone"
+			"name": "bambi alt left"
+		},
+		{
+			"offsets": [40, -338],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "bambi alt right"
+		},
+		{
+			"loop": false,
+			"offsets": [116, -268],
+			"anim": "break",
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
@@ -105,11 +105,11 @@
 	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		{"blue": 0, "red": 12, "green": 181},
-		{"blue": 20, "red": 12, "green": 201},
-		{"blue": 40, "red": 12, "green": 221}
+		{"blue": 0, "green": 181, "red": 12},
+		{"blue": 20, "green": 201, "red": 12},
+		{"blue": 40, "green": 221, "red": 12}
 	],
-	"camera_position": [-70, 460],
+	"camera_position": [-20, 350],
 	"sing_duration": 6.1,
 	"scale": 1,
 	"_editor_isPlayer": false

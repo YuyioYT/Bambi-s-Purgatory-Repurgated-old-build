@@ -1,0 +1,28 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/expunged/slushx warden",
+	"position": [0, -130],
+	"healthicon": "face",
+	"healthbar_count": 3,
+	"flip_x": false,
+	"healthbar_colors": [
+		{"blue": 161, "red": 161, "green": 161},
+		{"blue": 161, "red": 161, "green": 161},
+		{"blue": 161, "red": 161, "green": 161}
+	],
+	"camera_position": [10, -190],
+	"sing_duration": 4,
+	"scale": 1.7,
+	"_editor_isPlayer": false
+}
