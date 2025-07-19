@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "Up",
+			"text": "YOU FUCKING LIAR, ILL MURDER YOU AND ",
+			"boxState": "angry",
+			"portrait": "bambi-rage",
+			"speed": 0.015,
+			"sound": ""
+		},
+		{
+			"expression": "Right",
+			"text": "I WILL BURN YOU TO ASHES AND USE YOU AS FEED FOR MY LIVESTOCK.",
+			"boxState": "angry",
+			"portrait": "bambi-rage",
+			"speed": 0.015,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "All of this for some crops of CORN?!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "Right",
+			"text": "You’re about to cause the world to collapse in on itself because you THINK we stole your corn!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "Left",
+			"text": "I DON’T CARE ANYMORE, I WILL KILL YOU NO MATTER WHAT, THIS REALITY IS IN MY GRASP.",
+			"boxState": "angry",
+			"portrait": "bambi-rage",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "I put in the fucking effort to be able to fucking speak to you, and look where that gets me.",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "I FUCKING KNEW IT! YOU’RE A FUCKING LIAR! YOU CAN SPEAK! SO I NEVER BELIEVE YOUR LIES ABOUT NOT STEALING CORN!",
+			"boxState": "angry",
+			"portrait": "bambi-rage",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "Right",
+			"text": "Look Boyfriend, there’s no going back, just accept it.",
+			"boxState": "angry",
+			"portrait": "bambi-rage",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Just rap and get over it. Besides, he probably just has anger issues..",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Oh gee, I had no idea!"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bambigod2d",
+			"boxState": "angry",
+			"expression": "left",
+			"text": "GRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH. YOU ARE SO ANNOYING"
+		}
+	],
+	"style": ""
+}

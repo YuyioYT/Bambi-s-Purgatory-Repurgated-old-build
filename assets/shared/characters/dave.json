@@ -46,7 +46,7 @@
 	"image": "characters/dave/Dave",
 	"position": [-80, 150],
 	"healthicon": "dave",
-	"healthbar_count": 1,
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
 		{"blue": 255, "red": 15, "green": 95},

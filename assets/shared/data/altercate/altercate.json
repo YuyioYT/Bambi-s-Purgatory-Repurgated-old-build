@@ -1911,7 +1911,7 @@
 	"healthdrainKill": false,
 	"cameraMoveOnNotes": false,
 	"healthdrain": 1,
-	"stage": "WormHole",
+	"stage": "wormhole",
 	"needsVoices": false,
 	"bpm": 165
 }

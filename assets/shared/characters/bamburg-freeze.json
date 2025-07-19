@@ -1,59 +1,101 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [4, 23],
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "left",
-			"indices": []
+			"indices": [],
+			"name": "left"
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 0],
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "down",
-			"indices": []
+			"indices": [],
+			"name": "down"
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 6],
+			"fps": 12,
 			"anim": "singUP",
-			"fps": 12,
-			"name": "up",
-			"indices": []
+			"indices": [],
+			"name": "up"
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [-10, 23],
-			"anim": "singRIGHT",
 			"fps": 12,
-			"name": "right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		},
 		{
-			"loop": true,
-			"offsets": [0, 0],
-			"anim": "idle",
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
 			"fps": 12,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 12,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "idle"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/bamburg/Bamburg Freeze",
-	"position": [-480, -345],
-	"healthicon": "Bamburg Freeze",
-	"healthbar_count": 3,
+	"image": "characters/bamburg_freeze",
+	"position": [
+		-280,
+		-105
+	],
+	"healthicon": "bamburg-freeze",
 	"flip_x": false,
 	"healthbar_colors": [
-		{"blue": 255, "red": 0, "green": 235},
-		{"blue": 255, "red": 255, "green": 255},
-		{"blue": 0, "red": 200, "green": 0}
+		255,
+		255,
+		48
 	],
-	"camera_position": [60, -60],
+	"camera_position": [
+		-190,
+		-70
+	],
 	"sing_duration": 6,
 	"scale": 1.2,
 	"_editor_isPlayer": false

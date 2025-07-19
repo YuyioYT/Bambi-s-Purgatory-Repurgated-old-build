@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				120,
+				130
+			],
+			"idle_name": "IDLE",
+			"anim": "idle",
+			"loop_offsets": [
+				120,
+				130
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				270,
+				270
+			],
+			"idle_name": "LEFT",
+			"anim": "left",
+			"loop_offsets": [
+				270,
+				270
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				330,
+				100
+			],
+			"idle_name": "RIGHT",
+			"anim": "right",
+			"loop_offsets": [
+				330,
+				100
+			]
+		}
+	],
+	"image": "Bambi God 2D"
+}

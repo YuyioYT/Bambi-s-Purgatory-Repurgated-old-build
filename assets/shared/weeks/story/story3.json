@@ -2,22 +2,16 @@
 	"storyName": "Rematch",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"songs": [
 		[
-			"Rascal",
+			"Roundabout",
 			"dave",
 			[
 				64,
@@ -26,14 +20,29 @@
 			]
 		],
 		[
-			"Triple Threat",
+			"Rascal",
 			"Dave and tristan",
 			[
 				144,
 				0,
 				55
 			]
+		],
+		[
+			"Triple Threat",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
 		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
 	],
 	"weekName": "Rematch"
 }

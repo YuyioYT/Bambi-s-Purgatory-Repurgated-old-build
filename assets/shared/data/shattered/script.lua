@@ -156,8 +156,10 @@ makeLuaSprite("NN14",'hud/shattered/events/nostal/nostal14',-200,-250)
 
 makeLuaSprite("NN15",'hud/shattered/events/nostal/nostal15',-350,-200)
 	setObjectCamera("NN15",'other')
+	scaleObject("NN15",2,2)
+	screenCenter("NN15")
 	addLuaSprite("NN15",true)
-		setProperty("NN15.alpha",0)
+	setProperty("NN15.alpha",0)
 
 makeLuaSprite('whiteout', '', 0, 0)
 	makeGraphic('whiteout', 2000, 2000, value1)

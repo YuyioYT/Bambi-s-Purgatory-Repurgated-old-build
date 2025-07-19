@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "Up",
+			"text": "OH MY GOD YOU BASTARD!!",
+			"boxState": "angry",
+			"portrait": "bambi-rage",
+			"speed": 0.015,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Ok so now you’re in that angry phase that everyone has in their third song but somehow transformed in the first song. What else is new?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Oh right- WHY ARE YOU GETTING THIS WORKED UP OVER CORN?!?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "Right",
+			"text": "ITS MY FUCKING PROPERTY, THEFT IS ILLEGAL!",
+			"boxState": "angry",
+			"portrait": "bambi-rage",
+			"speed": 0.01,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "*unimpressed beeps*",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Since when did you care about the rules, you literally tried to kill us just now.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "*negative beeps",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Down",
+			"text": "THAT DOESN’T MATTER! SINCE YOU STOLE MY CORN, I THINK IT FAIR I STEAL YOU LIFE!",
+			"boxState": "angry",
+			"portrait": "bambi-rage",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "*sigh* Just get over with the rap battle already.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.025,
+			"sound": ""
+		}
+	],
+	"style": ""
+}
