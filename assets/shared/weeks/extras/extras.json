@@ -2,19 +2,13 @@
 	"storyName": "Ayo?",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"songs": [
 		[
 			"Fast food",
@@ -76,16 +70,16 @@
 			[
 				0,
 				0,
-				80
+				120
 			]
 		],
 		[
 			"Velocity",
 			"Crimson Dave",
 			[
-				40,
+				80,
 				0,
-				60
+				140
 			]
 		],
 		[
@@ -207,7 +201,7 @@
 		],
 		[
 			"Penunbra",
-			"face",
+			"purgy",
 			[
 				160,
 				180,
@@ -216,16 +210,16 @@
 		],
 		[
 			"Skrunkly",
-			"Punble",
+			"expungle",
 			[
-				255,
+				155,
 				0,
 				0
 			]
 		],
 		[
 			"Jeff",
-			"face",
+			"jeff",
 			[
 				255,
 				255,
@@ -267,7 +261,31 @@
 				0,
 				0
 			]
+		],
+		[
+			"Heart Rush",
+			"bombu",
+			[
+				246,
+				93,
+				253
+			]
+		],
+		[
+			"Dinner",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
 		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
 	],
 	"weekName": "Trio Guys"
 }

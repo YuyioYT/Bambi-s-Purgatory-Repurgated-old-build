@@ -20,7 +20,7 @@
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/empty",
-	"position": [130, 150],
+	"position": [0, 0],
 	"healthicon": "Bombu",
 	"healthbar_count": 3,
 	"flip_x": false,
@@ -29,7 +29,7 @@
 		{"blue": 62, "green": 0, "red": 0},
 		{"blue": 42, "green": 0, "red": 0}
 	],
-	"camera_position": [-40, 0],
+	"camera_position": [-60, 120],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": false

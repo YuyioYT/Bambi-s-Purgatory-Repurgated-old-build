@@ -2,29 +2,29 @@
 	"storyName": "Ayo?",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"songs": [
 		[
-			"UNFINISHED SECTION",
-			"dad",
+			"Rsod-remix",
+			"god-expunged-1",
 			[
 				20,
 				0,
 				0
 			]
 		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
 	],
 	"weekName": "Trio Guys"
 }

@@ -44,14 +44,14 @@
 	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/bamburg/Starved Bamburg",
-	"position": [-160, -180],
+	"position": [-260, -180],
 	"healthicon": "starved bamburg",
 	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		{"blue": 0, "green": 40, "red": 80},
-		{"blue": 0, "green": 60, "red": 100},
-		{"blue": 0, "green": 60, "red": 120}
+		{"blue": 0, "green": 115, "red": 195},
+		{"blue": 0, "green": 135, "red": 215},
+		{"blue": 0, "green": 155, "red": 235}
 	],
 	"camera_position": [-40, 150],
 	"sing_duration": 4,

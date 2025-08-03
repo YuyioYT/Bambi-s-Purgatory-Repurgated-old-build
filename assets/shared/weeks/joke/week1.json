@@ -3,14 +3,18 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"8-28-63",
@@ -22,26 +26,17 @@
 			]
 		],
 		[
-			"Bombu x bamburg shipping cute",
-			"Bombu",
-			[
-				0,
-				0,
-				140
-			]
-		],
-		[
 			"Disposition but awesome",
 			"Awesom cpu",
 			[
-				255,
+				0,
 				0,
 				0
 			]
 		],
 		[
 			"Genital genesis",
-			"Whatsdown Bombu",
+			"Whatsdown bombu",
 			[
 				0,
 				160,
@@ -52,26 +47,22 @@
 			"Number 15",
 			"Bamburg",
 			[
-				146,
-				113,
-				253
+				255,
+				200,
+				0
 			]
 		],
 		[
 			"Punge",
 			"Punge",
 			[
-				115,
+				120,
 				0,
 				0
 			]
 		]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

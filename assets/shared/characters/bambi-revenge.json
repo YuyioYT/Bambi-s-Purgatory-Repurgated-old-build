@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-350
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "a_bambi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-308
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "a_bambi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-347
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "a_bambi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				-359
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "a_bambi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-376
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "a_bambi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				193,
+				-328
+			],
+			"anim": "throw",
+			"fps": 24,
+			"name": "a_bambi throw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-317
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "a_bambi scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-350
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "bambi idiot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-350
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "bambi idiot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				61,
+				-345
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "bambi alt left"
+		},
+		{
+			"offsets": [
+				40,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "bambi alt right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				-268
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "a_bambi phone",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi/RyanXD",
+	"position": [
+		220,
+		60
+	],
+	"healthicon": "bambirevenge",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		180,
+		3
+	],
+	"camera_position": [
+		80,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

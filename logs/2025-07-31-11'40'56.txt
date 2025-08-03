@@ -1,0 +1,21 @@
+P-Slice 2.3*
+
+Uncaught Error: Null Object Reference
+In file flixel/graphics/frames/FlxAtlasFrames.hx: CLS:FlxAtlasFrames:fromSparrow()  Line:253
+In file objects/MenuCharacter.hx: CLS:MenuCharacter:changeCharacter()  Line:77
+In file objects/MenuCharacter.hx: CLS:MenuCharacter:new()  Line:26
+In file states/editors/WeekEditorState.hx: CLS:WeekEditorState:create()  Line:77
+In file flixel/FlxGame.hx: CLS:FlxGame:switchState()  Line:639
+In file flixel/FlxGame.hx: CLS:FlxGame:update()  Line:726
+In file flixel/FlxGame.hx: CLS:FlxGame:step()  Line:679
+In file flixel/FlxGame.hx: CLS:FlxGame:onEnterFrame()  Line:558
+In file openfl/events/EventDispatcher.hx: CLS:EventDispatcher:__dispatchEvent()  Line:426
+In file openfl/display/DisplayObject.hx: CLS:DisplayObject:__dispatch()  Line:1398
+----------
+Active mod: custom events
+Platform: Windows
+
+
+Please report this error to the GitHub page: https://github.com/Psych-Slice/P-Slice
+
+> Crash Handler written by: sqirra-rng
