@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="distraction.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="drop-in0000" x="40" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0001" x="40" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0002" x="1090" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0003" x="1090" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0004" x="2140" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0005" x="2140" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0006" x="3190" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0007" x="3190" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0008" x="4240" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0009" x="5290" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0010" x="5290" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0011" x="6340" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0012" x="6340" y="40" width="1000" height="1000"/>
+	<SubTexture name="drop-in0013" x="4290" y="1090" width="1000" height="1000"/>
+	<SubTexture name="drop-out0000" x="4290" y="1090" width="1000" height="1000"/>
+	<SubTexture name="drop-out0001" x="40" y="1090" width="1000" height="1000"/>
+	<SubTexture name="drop-out0002" x="40" y="1090" width="1000" height="1000"/>
+	<SubTexture name="drop-out0003" x="1090" y="1090" width="1000" height="1000"/>
+	<SubTexture name="drop-out0004" x="1090" y="1090" width="1000" height="1000"/>
+	<SubTexture name="drop-out0005" x="2140" y="1090" width="1000" height="1000"/>
+	<SubTexture name="drop-out0006" x="3190" y="1090" width="1000" height="1000"/>
+	<SubTexture name="drop-out0007" x="4240" y="1090" width="0" height="0" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="drop-out0008" x="4240" y="1090" width="0" height="0" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="drop-out0009" x="4240" y="1090" width="0" height="0" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="drop-out0010" x="4240" y="1090" width="0" height="0" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="drop-out0011" x="4240" y="1090" width="0" height="0" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="drop-out0012" x="4240" y="1090" width="0" height="0" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="drop-out0013" x="4240" y="1090" width="0" height="0" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="hi0000" x="4290" y="1090" width="1000" height="1000"/>
+</TextureAtlas>

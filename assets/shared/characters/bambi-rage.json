@@ -61,7 +61,7 @@
 		{"blue": 20, "red": 235, "green": 0},
 		{"blue": 40, "red": 215, "green": 0}
 	],
-	"camera_position": [-170, 10],
+	"camera_position": [-40, 10],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": false

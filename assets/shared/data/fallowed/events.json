@@ -1,56 +1,239 @@
 {
-	"song": {
-		"events": [
+	"events": [
+		[
+			0,
 			[
-				0,
-				[
-					[
-						"Hide or Show HUD elements with Fade",
-						"0",
-						""
-					]
-				]
-			],
+				["Hide or Show HUD elements with Fade", "0", ""]
+			]
+		],
+		[
+			5363.12849162011,
 			[
-				5363.12849162011,
-				[
-					[
-						"Hide or Show HUD elements with Fade",
-						"1",
-						""
-					]
-				]
-			],
+				["Hide or Show HUD elements with Fade", "1", ""]
+			]
+		],
+		[
+			8379.88826815642,
 			[
-				8379.88826815642,
-				[
-					[
-						"Quick note spin",
-						"1",
-						""
-					]
-				]
-			],
+				["Quick note spin", "1", ""]
+			]
+		],
+		[
+			10726.2569832402,
 			[
-				10726.2569832402,
-				[
-					[
-						"Change the Default Camera Zoom",
-						"0.7",
-						""
-					]
-				]
-			],
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			20111.7318435754,
 			[
-				333282.577320921,
-				[
-					[
-						"Change Character",
-						"dad",
-						"bambi-god2d"
-					]
-				]
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			20446.9273743017,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			20865.9217877095,
+			[
+				["Change the Default Camera Zoom", "0.90", ""]
+			]
+		],
+		[
+			21452.5139664804,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			31173.1843575419,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			32178.7709497207,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			53631.2849162012,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			54972.0670391062,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			56312.8491620112,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			57653.6312849163,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			58994.4134078213,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			59329.6089385475,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			59664.8044692738,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			60335.1955307263,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			61675.9776536314,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			85810.0558659219,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			96536.3128491622,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			101899.441340782,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			116648.044692738,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			116983.240223464,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			117234.636871509,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			117569.832402235,
+			[
+				["Change the Default Camera Zoom", "0.91", ""]
+			]
+		],
+		[
+			117653.631284916,
+			[
+				["Change the Default Camera Zoom", "0.92", ""]
+			]
+		],
+		[
+			117737.430167598,
+			[
+				["Change the Default Camera Zoom", "0.93", ""]
+			]
+		],
+		[
+			117821.22905028,
+			[
+				["Change the Default Camera Zoom", "0.94", ""]
+			]
+		],
+		[
+			117905.027932961,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			117988.826815643,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			120670.391061453,
+			[
+				["Change the Default Camera Zoom", "0.9e", ""]
+			]
+		],
+		[
+			121005.586592179,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			122011.173184358,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			122178.770949721,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			122346.368715084,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			122513.966480447,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			128715.083798883,
+			[
+				["Change the Default Camera Zoom", "0.75", ""]
+			]
+		],
+		[
+			333282.577320921,
+			[
+				["Change Character", "dad", "bambi-god2d"]
 			]
 		]
-	}
+	],
+	"format": "psych_v1"
 }

@@ -1,101 +1,67 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": false,
-			"fps": 12,
+			"offsets": [4, 23],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 12,
+			"name": "left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": false,
-			"fps": 12,
+			"offsets": [8, 0],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 12,
+			"name": "down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": false,
-			"fps": 12,
+			"offsets": [0, 5],
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
 			"fps": 12,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
+			"name": "up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4
-			],
+			"loop": false,
+			"offsets": [-15, 23],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "idle",
+			"indices": [5, 6, 7, 8]
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
 			"fps": 12,
 			"anim": "idle",
-			"loop": false,
-			"name": "idle"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [
-				5,
-				6,
-				7,
-				8
-			],
-			"fps": 12,
-			"anim": "idle-loop",
-			"loop": true,
+			"indices": [0, 1, 2, 3, 4],
 			"name": "idle"
 		}
 	],
 	"vocals_file": "",
-	"no_antialiasing": false,
-	"image": "characters/bamburg_freeze",
-	"position": [
-		-280,
-		-105
-	],
-	"healthicon": "bamburg-freeze",
+	"no_antialiasing": true,
+	"image": "characters/bamburg/Bamburg Freeze",
+	"position": [-360, -395],
+	"healthicon": "Bamburg Freeze",
+	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		48
+		{"blue": 235, "green": 255, "red": 0},
+		{"blue": 255, "green": 255, "red": 255},
+		{"blue": 0, "green": 0, "red": 195}
 	],
-	"camera_position": [
-		-190,
-		-70
-	],
+	"camera_position": [110, -40],
 	"sing_duration": 6,
 	"scale": 1.2,
 	"_editor_isPlayer": false
