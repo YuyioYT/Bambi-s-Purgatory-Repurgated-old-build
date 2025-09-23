@@ -1,50 +1,51 @@
 {
 	"animations": [
 		{
-			"offsets": [0, 0],
 			"loop": false,
-			"fps": 60,
-			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
-		},
-		{
 			"offsets": [-3, 0],
-			"loop": false,
-			"fps": 60,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"fps": 24,
+			"name": "Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"loop": false,
-			"fps": 60,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 24,
+			"name": "Down",
+			"indices": []
 		},
 		{
-			"offsets": [2, 0],
 			"loop": false,
-			"fps": 60,
+			"offsets": [0, 0],
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 24,
+			"name": "Up",
+			"indices": []
 		},
 		{
-			"offsets": [1, 0],
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"fps": 60,
+			"offsets": [0, 0],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/joke/Punge",
-	"position": [-360, 80],
+	"position": [-130, -160],
+	"camerazoomopponent": 0,
 	"healthicon": "Punge",
 	"healthbar_count": 3,
 	"flip_x": false,
@@ -53,8 +54,8 @@
 		{"blue": 20, "green": 0, "red": 122},
 		{"blue": 40, "green": 0, "red": 142}
 	],
-	"camera_position": [50, 90],
+	"camera_position": [50, 140],
 	"sing_duration": 6.1,
-	"scale": 1.2,
+	"scale": 1,
 	"_editor_isPlayer": false
 }

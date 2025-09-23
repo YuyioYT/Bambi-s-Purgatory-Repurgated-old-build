@@ -13,14 +13,14 @@ source/mikolka/vslice/FunkinPreloader.hx:597: Load misc
 source/mikolka/funkin/custom/NativeFileSystem.hx:47: Text file doesn't exist!! , assets/shared/images/charSelect/charSelectStage/Animation.json
 source/mikolka/vslice/FunkinPreloader.hx:620: Exception when caching Anim JSON: Invalid char 0 at position 0
 source/mikolka/vslice/FunkinPreloader.hx:633: Completed caching JSONs.
-source/backend/system/Main.hx:155: Main done it's code
-source/backend/system/Main.hx:170: Starting game setup
-source/backend/system/Main.hx:194: Initializing save .sol
-source/backend/system/Main.hx:215: Loading scores..
-source/backend/system/Main.hx:219: Hooking up the Iris log functions
-source/backend/system/Main.hx:289: Hooking up Lua
-source/backend/system/Main.hx:293: Loading controls
-source/backend/system/Main.hx:305: Loading game objest...
+source/backend/system/Main.hx:149: Main done it's code
+source/backend/system/Main.hx:164: Starting game setup
+source/backend/system/Main.hx:188: Initializing save .sol
+source/backend/system/Main.hx:209: Loading scores..
+source/backend/system/Main.hx:213: Hooking up the Iris log functions
+source/backend/system/Main.hx:283: Hooking up Lua
+source/backend/system/Main.hx:287: Loading controls
+source/backend/system/Main.hx:299: Loading game objest...
 source/mikolka/vslice/components/FunkinSoundTray.hx:79: Custom tray added!
 source/states/InitState.hx:27: Fixing DPI aware:
 source/backend/Native.hx:133: running haxe code for scale fix
@@ -31,5 +31,5 @@ source/backend/Discord.hx:77: Discord Client initialized
 source/states/InitState.hx:34: Loading translations
 source/objects/Alphabet.hx:366: Reloaded letters successfully (assets/shared/images/alphabet.json)!
 source/states/InitState.hx:37: Setting some save related values
-source/backend/system/Main.hx:316: Finishing up..
-source/states/TitleState.hx:124: Enforcing log settings!
+source/backend/system/Main.hx:310: Finishing up..
+source/states/TitleState.hx:122: Enforcing log settings!
