@@ -6319,7 +6319,7 @@
 		"healthdrainKill": false,
 		"cameraMoveOnNotes": false,
 		"healthdrain": 0,
-		"stage": "bobuRsod",
+		"stage": "stage",
 		"needsVoices": true,
 		"bpm": 181
 	}
