@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="overlay.png">
-<SubTexture name="iddle0000" x="0" y="0" width="773" height="245" frameX="-24" frameY="-33" frameWidth="820" frameHeight="300" />
-<SubTexture name="iddle0001" x="0" y="245" width="773" height="245" frameX="-24" frameY="-33" frameWidth="820" frameHeight="300" />
-<SubTexture name="iddle0002" x="0" y="490" width="773" height="245" frameX="-24" frameY="-33" frameWidth="820" frameHeight="300" />
-<SubTexture name="iddle0003" x="0" y="735" width="773" height="245" frameX="-24" frameY="-33" frameWidth="820" frameHeight="300" />
-<SubTexture name="iddle0004" x="0" y="980" width="773" height="245" frameX="-24" frameY="-33" frameWidth="820" frameHeight="300" />
-</TextureAtlas>
