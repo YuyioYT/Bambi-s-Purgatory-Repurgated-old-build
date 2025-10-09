@@ -6,7 +6,7 @@ local shaderName = "lightsrgb"
  local angleshit = 2;
 local anglevar = 2;
 function onStartCountdown()
- triggerEvent('Camera Follow Pos', '800', '-1000')
+triggerEvent('Camera Follow Pos', '800', '-1000')
 setProperty("camHUD.alpha",0)
 doTweenY('hudud', 'camHUD', 820 , 0.1, 'quadInOut')
 end
@@ -315,29 +315,7 @@ if curStep == 192 then
  triggerEvent('Camera Follow Pos', '', '')
 doTweenY('hudud', 'camHUD', 0 , 1, 'CubeOut')
 end
-if curStep == 246 then
- triggerEvent('Camera Follow Pos', '600', '560')
-end
-if curStep == 256 then
- triggerEvent('Camera Follow Pos', '', '')
-end
-if curStep == 496 then
- triggerEvent('Camera Follow Pos', '300', '560')
-end
-if curStep == 500 then
- triggerEvent('Camera Follow Pos', '1100', '560')
-end
-if curStep == 504 then
- triggerEvent('Camera Follow Pos', '300', '560')
-end
-if curStep == 508 then
- triggerEvent('Camera Follow Pos', '750', '560')
-end
 
-if curStep == 512 then
-cambop2 = true
- triggerEvent('Camera Follow Pos', '', '')
-end
 if curStep == 759 then
 cambop2 = false
 doTweenAlpha('byegg', 'gg', 1, 0.2, 'quadInOut');
@@ -428,38 +406,7 @@ if curStep == 1925 then
 setProperty("bluehot.alpha",0)
 setProperty("greenhot.alpha",0)
 end
-if curStep == 2016 then
- triggerEvent('Camera Follow Pos', '300', '560')
-end
-if curStep == 2019 then
- triggerEvent('Camera Follow Pos', '1100', '560')
-end
-if curStep == 2022 then
- triggerEvent('Camera Follow Pos', '300', '560')
-end
-if curStep == 2024 then
- triggerEvent('Camera Follow Pos', '1100', '560')
-end
-if curStep == 2027 then
- triggerEvent('Camera Follow Pos', '300', '560')
-end
-if curStep == 2029 then
- triggerEvent('Camera Follow Pos', '1100', '560')
-end
-if curStep == 2032 then
- triggerEvent('Camera Follow Pos', '300', '560')
-end
-if curStep == 2035 then
- triggerEvent('Camera Follow Pos', '1100', '560')
-end
-if curStep == 2037 then
- triggerEvent('Camera Follow Pos', '300', '560')
-end
-if curStep == 2039 then
- triggerEvent('Camera Follow Pos', '750', '560')
-end
 if curStep == 2042 then
- triggerEvent('Camera Follow Pos', '750', '-750')
 doTweenY('hudud', 'camHUD', 820 , 1, 'quadInOut')
 end
 
