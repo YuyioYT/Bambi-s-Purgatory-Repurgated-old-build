@@ -335,15 +335,6 @@ end
 if curStep == 1152 then
 doTweenAlpha('wo', 'whiteout', 0, 0.2, 'quadInOut');
 end
-if curStep == 1312 then
-cambop2 = true
-end
-if curStep == 1408 then
-cambop2 = false
-end
-if curStep == 1411 then
-cambop = true
-end
 if curStep == 1592 then
 doTweenAlpha('byegf', 'gf', 0, 3, 'quadInOut');
 doTweenY('babyegf', 'gf', -1220 , 5, 'quadInOut')

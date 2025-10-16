@@ -1,0 +1,49 @@
+{
+    "colors": [
+        {
+            "inner": "E276FF",
+            "border": "FFF9FF",
+            "outline": "60008D"
+        },
+        {
+            "inner": "3DCAFF",
+            "border": "F4FFFF",
+            "outline": "003060"
+        },
+        {
+            "inner": "71E300",
+            "border": "F6FFE6",
+            "outline": "003100"
+        },
+        {
+            "inner": "FF884E",
+            "border": "FFFAF5",
+            "outline": "6C0000"
+        },
+        {
+            "inner": "B6B6B6",
+            "border": "FFF9FF",
+            "outline": "444444"
+        },
+        {
+            "inner": "FFD94A",
+            "border": "F4FFFF",
+            "outline": "663500"
+        },
+        {
+            "inner": "B055BC",
+            "border": "F6FFE6",
+            "outline": "4D0060"
+        },
+        {
+            "inner": "DF3E23",
+            "border": "FFFAF5",
+            "outline": "440000"
+        },
+        {
+            "inner": "2F69E5",
+            "border": "FFF9FF",
+            "outline": "000F5D"
+        }
+    ]
+}

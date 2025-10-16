@@ -1,25 +1,25 @@
-source/backend/system/Main.hx:107: CWD IS E:\FnF\bp fixed build 2.0\BP-Fixed-Build-2.0\export\release\windows\bin/
+source/backend/system/Main.hx:108: CWD IS E:\FnF\bp fixed build 2.0\BP-Fixed-Build-2.0\export\release\windows\bin/
 source/backend/CrashHandler.hx:21: hooking openfl crash handler
 source/backend/CrashHandler.hx:24: hooking hxcpp crash handler
 source/backend/CrashHandler.hx:30: done with crash handler
-source/backend/system/Main.hx:110: Crash handler is up!
-source/backend/system/Main.hx:115: Pushing global mods
-source/backend/system/Main.hx:119: Pushing top mod
-source/backend/system/Main.hx:126: Starting hxvlc..
+source/backend/system/Main.hx:111: Crash handler is up!
+source/backend/system/Main.hx:116: Pushing global mods
+source/backend/system/Main.hx:120: Pushing top mod
+source/backend/system/Main.hx:127: Starting hxvlc..
 source/backend/Paths.hx:280: Bitmap not found: assets/shared/images/freeplay/albumRoll/volume4.png | key: images/freeplay/albumRoll/volume4.png
 source/mikolka/vslice/FunkinPreloader.hx:463: Failed to cache: images/freeplay/albumRoll/volume4.png
 source/mikolka/vslice/FunkinPreloader.hx:480: Completed caching graphics.
 source/mikolka/vslice/FunkinPreloader.hx:597: Load misc
 source/mikolka/vslice/FunkinPreloader.hx:620: Exception when caching Anim JSON: Invalid char 0 at position 0
 source/mikolka/vslice/FunkinPreloader.hx:633: Completed caching JSONs.
-source/backend/system/Main.hx:150: Main done it's code
-source/backend/system/Main.hx:165: Starting game setup
-source/backend/system/Main.hx:191: Initializing save .sol
-source/backend/system/Main.hx:212: Loading scores..
-source/backend/system/Main.hx:216: Hooking up the Iris log functions
-source/backend/system/Main.hx:286: Hooking up Lua
-source/backend/system/Main.hx:290: Loading controls
-source/backend/system/Main.hx:302: Loading game objest...
+source/backend/system/Main.hx:151: Main done it's code
+source/backend/system/Main.hx:167: Starting game setup
+source/backend/system/Main.hx:193: Initializing save .sol
+source/backend/system/Main.hx:214: Loading scores..
+source/backend/system/Main.hx:218: Hooking up the Iris log functions
+source/backend/system/Main.hx:288: Hooking up Lua
+source/backend/system/Main.hx:292: Loading controls
+source/backend/system/Main.hx:304: Loading game objest...
 source/mikolka/vslice/components/FunkinSoundTray.hx:79: Custom tray added!
 source/states/InitState.hx:27: Fixing DPI aware:
 source/backend/Native.hx:133: running haxe code for scale fix
@@ -30,5 +30,5 @@ source/backend/Discord.hx:77: Discord Client initialized
 source/states/InitState.hx:34: Loading translations
 source/objects/Alphabet.hx:366: Reloaded letters successfully (assets/shared/images/alphabet.json)!
 source/states/InitState.hx:37: Setting some save related values
-source/backend/system/Main.hx:313: Finishing up..
+source/backend/system/Main.hx:315: Finishing up..
 source/states/TitleState.hx:126: Enforcing log settings!

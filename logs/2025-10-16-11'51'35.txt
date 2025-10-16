@@ -1,0 +1,13 @@
+P-Slice 3.3
+
+Uncaught Error: Null Object Reference
+In file states/PlayState.hx: CLS:PlayState:getKeyFromEvent()  Line:6340
+In file states/PlayState.hx: CLS:PlayState:onKeyPress()  Line:6226
+----------
+Active mod: 
+Platform: Windows
+
+
+Please report this error to the GitHub page: https://github.com/Psych-Slice/P-Slice
+
+> Crash Handler written by: sqirra-rng
