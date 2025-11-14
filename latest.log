@@ -21,14 +21,15 @@ source/backend/system/Main.hx:288: Hooking up Lua
 source/backend/system/Main.hx:292: Loading controls
 source/backend/system/Main.hx:304: Loading game objest...
 source/mikolka/vslice/components/FunkinSoundTray.hx:79: Custom tray added!
+source/backend/system/Main.hx:315: Finishing up..
+source/backend/Discord.hx:77: Discord Client initialized
+source/backend/Discord.hx:55: (Discord) Connected to User (yuyioyt)
 source/states/InitState.hx:27: Fixing DPI aware:
 source/backend/Native.hx:133: running haxe code for scale fix
 source/backend/Native.hx:144: running cpp code for scale fix
 source/backend/Native.hx:156: done fixing scale issue
 source/states/InitState.hx:31: Loading game settings
-source/backend/Discord.hx:77: Discord Client initialized
 source/states/InitState.hx:34: Loading translations
 source/objects/Alphabet.hx:366: Reloaded letters successfully (assets/shared/images/alphabet.json)!
 source/states/InitState.hx:37: Setting some save related values
-source/backend/system/Main.hx:315: Finishing up..
 source/states/TitleState.hx:126: Enforcing log settings!
