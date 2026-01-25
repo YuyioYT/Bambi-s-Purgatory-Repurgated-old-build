@@ -338,8 +338,7 @@ end
 if curStep == 1592 then
 doTweenAlpha('byegf', 'gf', 0, 3, 'quadInOut');
 doTweenY('babyegf', 'gf', -1220 , 5, 'quadInOut')
-
-	end
+end
 if curStep == 1792 then
 cambop = false
 cambop2 = true

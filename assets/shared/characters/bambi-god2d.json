@@ -1,60 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [0, 130],
-			"loop": true,
-			"fps": 12,
 			"anim": "idle",
-			"indices": [],
-			"name": "IDLE"
+			"fps": 12,
+			"name": "IDLE",
+			"indices": []
 		},
 		{
-			"loop": true,
 			"offsets": [171, 275],
+			"indices": [],
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "LEFT",
-			"indices": []
+			"loop": true,
+			"name": "LEFT"
 		},
 		{
-			"loop": true,
 			"offsets": [52, 217],
+			"indices": [],
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "DOWN",
-			"indices": []
+			"loop": true,
+			"name": "DOWN"
 		},
 		{
-			"loop": true,
 			"offsets": [81, 136],
-			"anim": "singRIGHT",
+			"indices": [],
 			"fps": 12,
-			"name": "RIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "RIGHT"
 		},
 		{
-			"loop": true,
 			"offsets": [190, 253],
-			"anim": "singUP",
+			"indices": [],
 			"fps": 12,
-			"name": "UP",
-			"indices": []
+			"anim": "singUP",
+			"loop": true,
+			"name": "UP"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/bambi/Bambi God 2D",
+	"image": "characters/bambi/bambi God 2D",
 	"position": [-170, 30],
-	"camerazoomopponent": 0,
 	"healthicon": "bambiGod2d",
 	"healthbar_count": 3,
 	"flip_x": false,
 	"healthbar_colors": [
-		{"blue": 255, "red": 255, "green": 255},
-		{"blue": 115, "red": 255, "green": 115},
-		{"blue": 0, "red": 255, "green": 0}
+		{"blue": 255, "green": 255, "red": 255},
+		{"blue": 115, "green": 115, "red": 255},
+		{"blue": 0, "green": 0, "red": 255}
 	],
-	"camera_position": [40, -130],
+	"camera_position": [170, -10],
 	"sing_duration": 6.1,
 	"scale": 0.8,
 	"_editor_isPlayer": false

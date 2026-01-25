@@ -1,0 +1,3166 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Thunderstorm type black screen", "1", ""],
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			0,
+			[
+				["Thunderstorm type black screen", "1", ""],
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			78.125,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			156.25,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			234.375,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			312.5,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			390.625,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			468.75,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			546.875,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			625,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			703.125,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			781.25,
+			[
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			10000,
+			[
+				["Change Character", "1", "404"],
+				["Flash effect", "3", ""]
+			]
+		],
+		[
+			10000,
+			[
+				["Thunderstorm type black screen", "0", ""],
+				["Flash effect", "3", ""],
+				["Change Character", "1", "404"]
+			]
+		],
+		[
+			10039.0625,
+			[
+				["Dramatic Black and White effect", "1", ""]
+			]
+		],
+		[
+			10039.0625,
+			[
+				["Dramatic Black and White effect", "1", ""]
+			]
+		],
+		[
+			19921.875,
+			[
+				["Toggle Opponent Trail", "1", ""]
+			]
+		],
+		[
+			20000,
+			[
+				["Dramatic Black and White effect", "0", ""],
+				["Flash effect", "0", ""],
+				["Hide or Show HUD elements", "2", ""]
+			]
+		],
+		[
+			20000,
+			[
+				["Dramatic Black and White effect", "0", ""],
+				["Flash effect", "0", ""],
+				["Hide or Show HUD elements", "2", ""]
+			]
+		],
+		[
+			23750,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			23828.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23851.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23857.421875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23873.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23882.8125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23892.578125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23904.296875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23917.96875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23929.6875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			23998.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24037.109375,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24062.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24101.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24136.71875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24156.25,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24187.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24203.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24218.75,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			24296.875,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			28750,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			28828.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28851.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28857.421875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28873.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28882.8125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28892.578125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28904.296875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28917.96875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28929.6875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			28998.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29037.109375,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29062.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29101.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29136.71875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29156.25,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29187.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29203.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29218.75,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			29296.875,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			33750,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			33828.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33851.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33857.421875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33873.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33882.8125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33892.578125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33904.296875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33917.96875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33929.6875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			33998.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34037.109375,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34062.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34101.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34136.71875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34156.25,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34187.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34203.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34218.75,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			34296.875,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			38750,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Hide or Show HUD elements", "1", ""],
+				["Thunderstorm type black screen", "1", ""],
+				["Flash effect", "1", ""]
+			]
+		],
+		[
+			38828.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38851.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38857.421875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38873.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38882.8125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38892.578125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38904.296875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38917.96875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38929.6875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			38998.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			39037.109375,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			39062.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			39101.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			39136.71875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			39156.25,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			39187.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			39203.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			39218.75,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			40000,
+			[
+				["Thunderstorm type black screen", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Hide or Show HUD elements", "2", ""],
+				["Toggle Blocked Glitch", "0", ""],
+				["Change Scroll Speed", "0.9", "0.00001"]
+			]
+		],
+		[
+			43144.53125,
+			[
+				["Change the Default Camera Zoom", "1.6", ""]
+			]
+		],
+		[
+			43281.25,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			48144.53125,
+			[
+				["Change the Default Camera Zoom", "1.6", ""]
+			]
+		],
+		[
+			48281.25,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			58750,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			60000,
+			[
+				["Change the Default Camera Zoom", "0.85", ""],
+				["Flash effect", "0", ""],
+				["Quick note spin", "", ""],
+				["Change Scroll Speed", "0.95", "0.2"]
+			]
+		],
+		[
+			63144.53125,
+			[
+				["Change the Default Camera Zoom", "1.6", ""]
+			]
+		],
+		[
+			63281.25,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			68144.53125,
+			[
+				["Change the Default Camera Zoom", "1.6", ""]
+			]
+		],
+		[
+			68281.25,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			70000,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			70468.75,
+			[
+				["Change the Default Camera Zoom", "0.65", ""]
+			]
+		],
+		[
+			70937.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			72500,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			75000,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			75468.75,
+			[
+				["Change the Default Camera Zoom", "0.65", ""]
+			]
+		],
+		[
+			75937.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			77500,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			80000,
+			[
+				["Change the Default Camera Zoom", "1", ""],
+				["Quick note spin", "", ""]
+			]
+		],
+		[
+			80312.5,
+			[
+				["Quick note spin", "", ""]
+			]
+		],
+		[
+			80625,
+			[
+				["Quick note spin", "", ""]
+			]
+		],
+		[
+			80923.828125,
+			[
+				["Change Scroll Speed", "1", "0.01"]
+			]
+		],
+		[
+			80937.5,
+			[
+				["Quick note spin", "", ""],
+				["Change the Default Camera Zoom", "0.5", ""]
+			]
+		],
+		[
+			81250,
+			[
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Flash effect", "0", ""]
+			]
+		],
+		[
+			85000,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			85078.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85101.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85107.421875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85123.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85132.8125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85142.578125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85154.296875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85167.96875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85179.6875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85248.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85287.109375,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85312.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85351.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85386.71875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85406.25,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85437.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85453.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85468.75,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			85546.875,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			90000,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			90078.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90101.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90107.421875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90123.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90132.8125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90142.578125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90154.296875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90167.96875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90179.6875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90248.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90287.109375,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90312.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90351.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90386.71875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90406.25,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90437.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90453.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90468.75,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			90546.875,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			95000,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			95078.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95101.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95107.421875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95123.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95132.8125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95142.578125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95154.296875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95167.96875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95179.6875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95248.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95287.109375,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95312.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95351.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95386.71875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95406.25,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95437.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95453.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95468.75,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			95546.875,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			100000,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			100078.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100101.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100107.421875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100123.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100132.8125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100142.578125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100154.296875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100167.96875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100179.6875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100248.046875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100287.109375,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100312.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100351.5625,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100386.71875,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100406.25,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100437.5,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100453.125,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100468.75,
+			[
+				["Screen Shake", "0.02,0.01", "0.01,0.09"]
+			]
+		],
+		[
+			100546.875,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			101250,
+			[
+				["Change Character", "1", "wardenphase1"],
+				["Thunderstorm type black screen", "1", ""],
+				["Hide or Show HUD elements", "1", ""],
+				["Flash effect", "2", ""]
+			]
+		],
+		[
+			101250,
+			[
+				["Change Character", "1", "wardenphase1"],
+				["Thunderstorm type black screen", "1", ""],
+				["Hide or Show HUD elements", "1", ""],
+				["Flash effect", "2", ""]
+			]
+		],
+		[
+			102500,
+			[
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			102500,
+			[
+				["Toggle Eyesores", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			103125,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			103125,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			103203.125,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			105000,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			111250,
+			[
+				["Flash effect", "2", ""]
+			]
+		],
+		[
+			111250,
+			[
+				["Flash effect", "2", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			112500,
+			[
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			112500,
+			[
+				["Toggle Eyesores", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			113125,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			113125,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			113203.125,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			115000,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			117812.5,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			117812.5,
+			[
+				["Toggle Blocked Glitch", "1", ""],
+				["Change Character", "0", "bf-scared"],
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			117968.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Toggle Blocked Glitch", "0", ""]
+			]
+		],
+		[
+			117968.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Toggle Blocked Glitch", "0", ""]
+			]
+		],
+		[
+			118046.875,
+			[
+				["Change Character", "0", "bf"]
+			]
+		],
+		[
+			120000,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			120000,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			121250,
+			[
+				["Hide or Show HUD elements", "2", ""],
+				["Flash effect", "20", ""],
+				["SetCameraBop", "0.05", "2"],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			121250,
+			[
+				["Hide or Show HUD elements", "2", ""],
+				["Flash effect", "2", ""],
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Change Character", "0", "bf-scared"],
+				["Change Scroll Speed", "1.2", "0.1"]
+			]
+		],
+		[
+			124687.5,
+			[
+				["Add Camera Zoom", "0.1", "0.01"]
+			]
+		],
+		[
+			124843.75,
+			[
+				["Add Camera Zoom", "0.1", "0.01"]
+			]
+		],
+		[
+			127500,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			128125,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			128437.5,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			128750,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			130000,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			131250,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			132500,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			132812.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			133125,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			133437.5,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			133750,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			134687.5,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			135000,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			135468.75,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			135937.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			136171.875,
+			[
+				["Set Property", "cameraSpeed", "100000000000"]
+			]
+		],
+		[
+			136250,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			136328.125,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			136562.5,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			136875,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			137187.5,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			137500,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			139960.9375,
+			[
+				["Set Property", "cameraSpeed", "99999999999"]
+			]
+		],
+		[
+			140000,
+			[
+				["Set Property", "cameraSpeed", "1.5"],
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			141250,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			142500,
+			[
+				["Toggle Eyesores", "1", ""],
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			143125,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			143125,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			143203.125,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			143750,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			145000,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			146250,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			147500,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			148125,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			148437.5,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			148750,
+			[
+				["Add Camera Zoom", "0.95", ""],
+				["Toggle Player Trail", "1", ""],
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			148906.25,
+			[
+				["Add Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			149062.5,
+			[
+				["Add Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			149218.75,
+			[
+				["Add Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			149375,
+			[
+				["Add Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			149531.25,
+			[
+				["Add Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			149679.6875,
+			[
+				["Add Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			149687.5,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			149843.75,
+			[
+				["Add Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			149968.75,
+			[
+				["Toggle Blocked Glitch", "0", ""]
+			]
+		],
+		[
+			150000,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			151250,
+			[
+				["Flash effect", "0", ""],
+				["Hide or Show HUD elements", "1", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			160000,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			160937.5,
+			[
+				["Change the Default Camera Zoom", "0.5", ""],
+				["Quick note spin", "", ""]
+			]
+		],
+		[
+			161250,
+			[
+				["Hide or Show HUD elements", "2", ""],
+				["Flash effect", "3", "1"],
+				["Change Character", "1", "404"],
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Toggle Player Trail", "0", ""],
+				["Change Character", "0", "bf"],
+				["Change Scroll Speed", "1", "0.1"]
+			]
+		],
+		[
+			166250,
+			[
+				["Add Camera Zoom", "1", "0.5"]
+			]
+		],
+		[
+			166718.75,
+			[
+				["Add Camera Zoom", "1", "0.5"]
+			]
+		],
+		[
+			168750,
+			[
+				["Add Camera Zoom", "1", "0.5"]
+			]
+		],
+		[
+			169218.75,
+			[
+				["Add Camera Zoom", "1", "0.5"]
+			]
+		],
+		[
+			176250,
+			[
+				["Add Camera Zoom", "1", "0.5"]
+			]
+		],
+		[
+			176718.75,
+			[
+				["Add Camera Zoom", "1", "0.5"]
+			]
+		],
+		[
+			178750,
+			[
+				["Add Camera Zoom", "1", "0.5"]
+			]
+		],
+		[
+			179218.75,
+			[
+				["Add Camera Zoom", "1", "0.5"]
+			]
+		],
+		[
+			181171.875,
+			[
+				["Toggle Opponent Trail", "0", ""]
+			]
+		],
+		[
+			181250,
+			[
+				["Screen Shake", "0.2,0.9", "0.2,0.9"],
+				["Toggle Blocked Glitch", "1", ""],
+				["Change Scroll Speed", "0.01", "0.2"]
+			]
+		],
+		[
+			181328.125,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181347.65625,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181355.46875,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181357.421875,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181359.375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181367.1875,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181369.140625,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181382.8125,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181384.765625,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181390.625,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181396.484375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181412.109375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181427.734375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181433.59375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181455.078125,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181470.703125,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181480.46875,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181496.09375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181523.4375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181535.15625,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181550.78125,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181568.359375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181582.03125,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181597.65625,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181607.421875,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181621.09375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181632.8125,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181658.203125,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181683.59375,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181699.21875,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181718.75,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			181730.46875,
+			[
+				["Screen Shake", "0.01,0.9", "0.01,0.9"]
+			]
+		],
+		[
+			182500,
+			[
+				["Hide or Show HUD elements", "0", ""],
+				["Toggle Blocked Glitch", "0", ""]
+			]
+		],
+		[
+			183750,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			186171.875,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			186250,
+			[
+				["Change Character", "1", "wardenphase2"],
+				["Change the Default Camera Zoom", "0.85", ""],
+				["Hide or Show HUD elements", "2", ""],
+				["Change Character", "0", "bf-scared"],
+				["Flash effect", "3", ""]
+			]
+		],
+		[
+			186328.125,
+			[
+				["Toggle Opponent Trail", "1", ""],
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			186406.25,
+			[
+				["Change Scroll Speed", "0.95", "0.15"]
+			]
+		],
+		[
+			187421.875,
+			[
+				["Set Property", "cameraSpeed", "9999999999"]
+			]
+		],
+		[
+			187578.125,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			188671.875,
+			[
+				["Set Property", "cameraSpeed", "9999999999"]
+			]
+		],
+		[
+			188750,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			188828.125,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			189921.875,
+			[
+				["Set Property", "cameraSpeed", "9999999999"]
+			]
+		],
+		[
+			190000,
+			[
+				["Change the Default Camera Zoom", "0.5", ""]
+			]
+		],
+		[
+			190078.125,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			190625,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			191171.875,
+			[
+				["Set Property", "cameraSpeed", "9999999999"]
+			]
+		],
+		[
+			191250,
+			[
+				["Change the Default Camera Zoom", "0.8", ""],
+				["Flash effect", "1", ""]
+			]
+		],
+		[
+			191328.125,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			192421.875,
+			[
+				["Set Property", "cameraSpeed", "9999999999"]
+			]
+		],
+		[
+			192578.125,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			193671.875,
+			[
+				["Set Property", "cameraSpeed", "9999999999"]
+			]
+		],
+		[
+			193750,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			193828.125,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			194921.875,
+			[
+				["Set Property", "cameraSpeed", "0.5"]
+			]
+		],
+		[
+			195000,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			195546.875,
+			[
+				["Set Property", "cameraSpeed", "1.5"]
+			]
+		],
+		[
+			195625,
+			[
+				["Change the Default Camera Zoom", "2", ""],
+				["Toggle Blocked Glitch", "1", ""],
+				["Hide or Show HUD elements", "1", ""],
+				["Thunderstorm type black screen", "1", ""],
+				["Change Scroll Speed", "1", "0.15"]
+			]
+		],
+		[
+			196250,
+			[
+				["Flash effect", "3", ""],
+				["Change Character", "1", "404"],
+				["Thunderstorm type black screen", "0", ""],
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Change Scroll Speed", "1.2", "0.1"]
+			]
+		],
+		[
+			197500,
+			[
+				["Change Scroll Speed", "1.4", "0.1"]
+			]
+		],
+		[
+			198738.28125,
+			[
+				["Change Scroll Speed", "1.6", "0.1"]
+			]
+		],
+		[
+			198750,
+			[
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			198750,
+			[
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			199986.328125,
+			[
+				["Change Scroll Speed", "2", "0.1"]
+			]
+		],
+		[
+			200000,
+			[
+				["Change Character", "1", "wardenphase1"],
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			200000,
+			[
+				["Change Character", "1", "wardenphase1"],
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			201015.625,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			201015.625,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			201240.234375,
+			[
+				["Change Scroll Speed", "1.2", "0.1"]
+			]
+		],
+		[
+			201250,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change Character", "1", "404-phase2"],
+				["Flash effect", "3", ""]
+			]
+		],
+		[
+			201250,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Change Character", "1", "404-phase2"],
+				["Flash effect", "3", ""]
+			]
+		],
+		[
+			202500,
+			[
+				["Change Scroll Speed", "1.4", "0.1"]
+			]
+		],
+		[
+			203732.421875,
+			[
+				["Change Scroll Speed", "1.6", "0.1"]
+			]
+		],
+		[
+			203750,
+			[
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			203750,
+			[
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			204982.421875,
+			[
+				["Change Scroll Speed", "2", "0.1"]
+			]
+		],
+		[
+			205000,
+			[
+				["Change Character", "1", "wardenphase2"],
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			205000,
+			[
+				["Change Character", "1", "wardenphase2"],
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			206015.625,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			206015.625,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			206232.421875,
+			[
+				["Change Scroll Speed", "1", "0.1"]
+			]
+		],
+		[
+			206250,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Flash effect", "3", ""]
+			]
+		],
+		[
+			206250,
+			[
+				["Toggle Blocked Glitch", "0", ""],
+				["Flash effect", "3", ""]
+			]
+		],
+		[
+			207500,
+			[
+				["Change Scroll Speed", "1.1", "0.1"]
+			]
+		],
+		[
+			208726.5625,
+			[
+				["Change Scroll Speed", "1.2", "0.1"]
+			]
+		],
+		[
+			208750,
+			[
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			208750,
+			[
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			209974.609375,
+			[
+				["Change Scroll Speed", "1.4", "0.1"]
+			]
+		],
+		[
+			210000,
+			[
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			210000,
+			[
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			211015.625,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			211015.625,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			211228.515625,
+			[
+				["Change Scroll Speed", "1", "0.1"]
+			]
+		],
+		[
+			211250,
+			[
+				["Toggle Blocked Glitch", "0", ""]
+			]
+		],
+		[
+			211250,
+			[
+				["Toggle Blocked Glitch", "0", ""]
+			]
+		],
+		[
+			212500,
+			[
+				["Change Scroll Speed", "1.1", "0.1"]
+			]
+		],
+		[
+			213738.28125,
+			[
+				["Change Scroll Speed", "1.2", "0.1"]
+			]
+		],
+		[
+			213750,
+			[
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			213750,
+			[
+				["Toggle Blocked Glitch", "1", ""]
+			]
+		],
+		[
+			214986.328125,
+			[
+				["Change Scroll Speed", "1.4", "0.1"]
+			]
+		],
+		[
+			215000,
+			[
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			215000,
+			[
+				["Toggle Eyesores", "1", ""]
+			]
+		],
+		[
+			216015.625,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			216015.625,
+			[
+				["Toggle Eyesores", "0", ""]
+			]
+		],
+		[
+			216226.5625,
+			[
+				["Change Scroll Speed", "1", "0.1"]
+			]
+		],
+		[
+			216250,
+			[
+				["Flash effect", "3", ""],
+				["Change Character", "1", "404 old"],
+				["Quick note spin", "", ""],
+				["Toggle Blocked Glitch", "0", ""],
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Change Character", "0", "bf"]
+			]
+		],
+		[
+			222500,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			223046.875,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			225000,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			226250,
+			[
+				["Change the Default Camera Zoom", "0.7", ""],
+				["Flash effect", "3", ""]
+			]
+		],
+		[
+			231250,
+			[
+				["Toggle Opponent Trail", "0", ""]
+			]
+		],
+		[
+			232500,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			233046.875,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			234988.28125,
+			[
+				["Change Scroll Speed", "0.5", "0.25"]
+			]
+		],
+		[
+			235000,
+			[
+				["Change the Default Camera Zoom", "0.4", ""],
+				["Set Property", "gf.alpha", "0"],
+				["Set Property", "dad.alpha", "0"]
+			]
+		],
+		[
+			236230.46875,
+			[
+				["Change Scroll Speed", "1.2", "0.1"]
+			]
+		],
+		[
+			236250,
+			[
+				["Flash effect", "0", ""],
+				["Change Character", "1", "404-phase2"],
+				["Hide or Show HUD elements", "2", ""],
+				["Set Property", "dad.alpha", "1"],
+				["Set Property", "gf.alpha", "1"],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			236328.125,
+			[
+				["Toggle Opponent Trail", "1", ""]
+			]
+		],
+		[
+			237500,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			238437.5,
+			[
+				["Change the Default Camera Zoom", "0.5", ""]
+			]
+		],
+		[
+			238750,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			240000,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			241250,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			242343.75,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			242812.5,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			243281.25,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			243593.75,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			243750,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			245156.25,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			245625,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			245937.5,
+			[
+				["Change the Default Camera Zoom", "2", ""]
+			]
+		],
+		[
+			246250,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			247500,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			248437.5,
+			[
+				["Change the Default Camera Zoom", "0.5", ""]
+			]
+		],
+		[
+			248750,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			250000,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			251250,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			252343.75,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			252812.5,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			253281.25,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			253593.75,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			253750,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			255156.25,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			255625,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			255937.5,
+			[
+				["Change the Default Camera Zoom", "2", ""]
+			]
+		],
+		[
+			256250,
+			[
+				["Change the Default Camera Zoom", "0.95", ""],
+				["Flash effect", "2", ""],
+				["Set Property", "boyfriend.alpha", "0"],
+				["Set Property", "gf.alpha", "0"],
+				["Hide or Show HUD elements", "0", ""]
+			]
+		],
+		[
+			258750,
+			[
+				["Change Character", "1", "404"],
+				["Flash effect", "3", ""]
+			]
+		],
+		[
+			261250,
+			[
+				["Change Character", "1", "404 old"],
+				["Flash effect", "2", ""],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			263750,
+			[
+				["Change Character", "1", "404"],
+				["Change the Default Camera Zoom", "0.95", ""],
+				["Hide or Show HUD elements", "2", ""],
+				["Flash effect", "2", ""],
+				["Set Property", "boyfriend.alpha", "1"],
+				["Set Property", "gf.alpha", "1"]
+			]
+		],
+		[
+			264218.75,
+			[
+				["Change the Default Camera Zoom", "1", ""]
+			]
+		],
+		[
+			265000,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			265468.75,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			266171.875,
+			[
+				["Toggle Opponent Trail", "0", ""]
+			]
+		],
+		[
+			266250,
+			[
+				["Change the Default Camera Zoom", "0.8", ""],
+				["Set Property", "gf.alpha", "0"],
+				["Set Property", "dad.alpha", "0"],
+				["Flash effect", "1", ""]
+			]
+		],
+		[
+			268750,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			271250,
+			[
+				["Change the Default Camera Zoom", "0.9", ""],
+				["Set Property", "gf.alpha", "1"],
+				["Set Property", "dad.alpha", "1"],
+				["Change Character", "1", "dad"],
+				["Flash effect", "0", ""]
+			]
+		],
+		[
+			273750,
+			[
+				["Flash effect", "1", ""],
+				["Set Property", "dad.alpha", "0"],
+				["Set Property", "gf.alpha", "0"],
+				["Change Character", "1", "404-phase2"],
+				["Set Property", "iconP2.alpha", "0"]
+			]
+		],
+		[
+			274218.75,
+			[
+				["Change the Default Camera Zoom", "0.85", ""]
+			]
+		],
+		[
+			275000,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			275468.75,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			276250,
+			[
+				["Flash effect", "2", ""],
+				["Set Property", "dad.alpha", "1"],
+				["Set Property", "gf.alpha", "1"],
+				["Toggle Opponent Trail", "1", ""],
+				["Set Property", "iconP2.alpha", "1"]
+			]
+		],
+		[
+			276562.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			277500,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			277812.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			277968.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			278281.25,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			278437.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			278593.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			278750,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			280937.5,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			281250,
+			[
+				["Flash effect", "2", ""]
+			]
+		],
+		[
+			281562.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			282500,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			282812.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			282968.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			283281.25,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			283437.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			283593.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			283750,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			285937.5,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			286250,
+			[
+				["Flash effect", "2", ""]
+			]
+		],
+		[
+			286562.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			287500,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			287812.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			287968.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			288281.25,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			288437.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			288593.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			288750,
+			[
+				["Change the Default Camera Zoom", "1.5", ""]
+			]
+		],
+		[
+			290000,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			290937.5,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			291250,
+			[
+				["Flash effect", "2", ""]
+			]
+		],
+		[
+			291562.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			292500,
+			[
+				["Change the Default Camera Zoom", "0.9", ""]
+			]
+		],
+		[
+			292812.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			292968.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			293281.25,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			293437.5,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			293593.75,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			293750,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			295000,
+			[
+				["Change the Default Camera Zoom", "0.8", ""]
+			]
+		],
+		[
+			295937.5,
+			[
+				["Change the Default Camera Zoom", "2", ""]
+			]
+		],
+		[
+			296250,
+			[
+				["Change Character", "1", "wardenphase3"],
+				["Flash effect", "3", ""],
+				["Thunderstorm type black screen", "1", ""],
+				["Change Character", "0", "bf-scared"],
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			297500,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			298125,
+			[
+				["Change the Default Camera Zoom", "0.7", ""]
+			]
+		],
+		[
+			298750,
+			[
+				["Change the Default Camera Zoom", "0.95", ""]
+			]
+		],
+		[
+			300000,
+			[
+				["Change the Default Camera Zoom", "0.6", ""]
+			]
+		],
+		[
+			300781.25,
+			[
+				["Change the Default Camera Zoom", "2", ""]
+			]
+		],
+		[
+			301250,
+			[
+				["Thunderstorm type black screen", "1", ""],
+				["Hide or Show HUD elements", "1", ""]
+			]
+		],
+		[
+			305000,
+			[
+				["Add Camera Zoom", "1", "0.1"]
+			]
+		],
+		[
+			305468.75,
+			[
+				["Add Camera Zoom", "1", "0.1"]
+			]
+		],
+		[
+			305937.5,
+			[
+				["Screen Shake", "99999999,999999999999", "99999999,999999999999"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

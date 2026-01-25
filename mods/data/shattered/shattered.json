@@ -543,7 +543,7 @@
 			118588.235294117,
 			[
 				["Hide or Show HUD elements with Fade", "0", ""],
-				["Change the Default Camera Zoom", "0", ""]
+				["Change the Default Camera Zoom", "0.7", ""]
 			]
 		],
 		[
@@ -1197,7 +1197,7 @@
 				[45088.2352941176, 4, 0, "phone"],
 				[45132.3529411764, 5, 0, "phone"]
 			],
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionBeats": 4,
@@ -1222,7 +1222,7 @@
 				[46235.294117647, 6, 88.2352941176471, ""],
 				[46235.294117647, 2, 264.705882352941, ""]
 			],
-			"mustHitSection": true
+			"mustHitSection": false
 		},
 		{
 			"sectionBeats": 4,

@@ -1,4 +1,4 @@
-source/backend/system/Main.hx:108: CWD IS E:\FnF\bp fixed build 2.0\BP-Fixed-Build-2.0\export\release\windows\bin/
+source/backend/system/Main.hx:108: CWD IS Z:\eos\bp fixed build 2.0\BP-Fixed-Build-2.0\export\release\windows\bin/
 source/backend/CrashHandler.hx:21: hooking openfl crash handler
 source/backend/CrashHandler.hx:24: hooking hxcpp crash handler
 source/backend/CrashHandler.hx:30: done with crash handler
